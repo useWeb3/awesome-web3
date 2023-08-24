@@ -1,6 +1,19 @@
-Awesome Web3 Resources 🛠️
+# Awesome Web3 Resources 🛠️
 Explore the latest resources and get familiar with the core concepts and fundamentals. Learning from tutorials, courses, books, videos or code challenges and start building!
 
+Want to see more awesomeness? Check out our [website](https://www.useweb3.xyz/) or follow us on [Twitter](https://twitter.com/useWeb3).## Contents 
+- [Books](#books-)
+- [Code Challenges](#code-challenges-)
+- [Courses](#courses-)
+- [Learn & Earn](#earn-)
+- [Grants & Support programs](#grants-)
+- [Guides](#guides-)
+- [Movies](#movies-)
+- [Podcasts](#podcasts-)
+- [Starter kits](#starter-kits-)
+- [Tutorials](#tutorials-)
+- [Videos](#videos-)
+- [Websites](#websites-)
 ## Books 📚 
 Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.
 
