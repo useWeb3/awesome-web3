@@ -213,6 +213,7 @@ Listen to some of the best minds in the space. This list contains several podcas
 ## Starter kits 🏗️ 
 These boilerplates and starterkits allow you to quickly get into web3 and smart contract development. Clone a repo or run a single command and start coding. These are the web3 equivalents of 'create-react-app'.
 
+- Ape Hackathon kit - https://github.com/wolovim/ape-hackathon-kit/ 
 - Basic Typescript Starter - https://github.com/nezz0746/typescript-eth-starter 
 - boilr3 - https://github.com/Envoy-VC/boilr3 
 - celo-composer - https://github.com/celo-org/celo-composer 
