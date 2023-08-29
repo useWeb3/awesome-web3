@@ -346,6 +346,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Indexing ERC-20 token balance using Subgraphs - https://docs.chainstack.com/docs/subgraphs-tutorial-indexing-erc-20-token-balance 
 - Integer Downcasting Vulnerability: Demonstration and Effective Fix - https://www.buildbear.io/resources/guides-and-tutorials/Downcasting_Vulnerability 
 - Introduction to Ethereum Rollups - https://www.quicknode.com/guides/infrastructure/introduction-to-ethereum-rollups 
+- An Introduction to Full Stack dapp Development - https://github.com/kmjones1979/full-stack-dapp-workshop 
 - Learn, code and deploy your own MultiSig Wallet and test it with your friends now - https://www.buildbear.io/resources/guides-and-tutorials/Learn,_code_and_deploy_your_own_MultiSig_Wallet_and_test_it_with_your_friends_now 
 - Learn Cryptography - https://www.tutorialspoint.com/cryptography/ 
 - Learn how to Code a Decentralised Hotel Booking System Smart Contract - https://www.buildbear.io/resources/guides-and-tutorials/Learn_how_to_Code_a_Decentralised_Hotel_Booking_System_Smart_Contract 
@@ -360,6 +361,11 @@ A curated list of free, community tutorials that are based around specific proje
 - A Low-Level Guide To Solidity's Storage Management - https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management 
 - Making DAPPs using SvelteWeb3 - https://chiuzon.medium.com/enjoy-making-dapps-using-svelteweb3-b78dfea1d902 
 - Mapping vs. Array in Solidity - https://www.devtwins.com/blog/understanding-mapping-vs-array-in-solidity 
+- Master Solidity - ERC20 - https://www.razacodes.com/blog/How-to-deploy-ERC20 
+- Master Solidity - Ether wallet - https://www.razacodes.com/blog/Solidity-Ether-Wallet 
+- Master Solidity - Fund me - https://www.razacodes.com/blog/How-to-Solidity-Fund-Me 
+- Master Solidity - Simple storage - https://www.razacodes.com/blog/Simple-Storage 
+- Master Solidity - Storage factory - https://www.razacodes.com/blog/Simple-Storage-Factory 
 - Maximizing Efficiency - https://coinsbench.com/maximizing-efficiency-how-gas-optimization-can-streamline-your-smart-contracts-4bafcc6bf321 
 - Meta-Transactions - https://blog.smlxl.io/meta-transactions-28047138ef6d 
 - NFT avatars for ENS profiles - https://medium.com/the-ethereum-name-service/nft-avatar-support-for-ens-profiles-bd4a5553f089 
