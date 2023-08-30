@@ -161,6 +161,7 @@ These grant and ecosystem support programs can help you build your own projects,
 - UNI Grants - https://www.unigrants.org/ 
 - Unmarshal Grants Program - https://unmarshal.io/grants/ 
 - VitaDAO - https://www.vitadao.com/ 
+- ZetaChain Grants - https://www.zetachain.com/grants 
 
 
 ## Guides 📖 
