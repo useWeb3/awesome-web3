@@ -137,6 +137,7 @@ These grant and ecosystem support programs can help you build your own projects,
 - 1inch Foundation grant program - https://1inch.io/foundation-grant-program/ 
 - Aave Grants - https://aavegrants.org/ 
 - Balancer Grants - https://balancer.community/balancer-community-grants 
+- Bepro Infrastructure Grant - https://layerxlabs.notion.site/Introducing-the-Bepro-Network-Infrastructure-Grant-39e096cdabe34120b95acc0ac3ac6b31 
 - Chainlink Grants - https://chain.link/community/grants 
 - Compound Grants - https://compoundgrants.org/ 
 - Connext Ecosystem Grants - https://grants.connext.network/ 
@@ -145,13 +146,13 @@ These grant and ecosystem support programs can help you build your own projects,
 - Ecosystem Support Program - https://esp.ethereum.foundation/ 
 - Filecoin Dev Grants - https://grants.filecoin.io/ 
 - Gitcoin Grants - https://gitcoin.co/grants/ 
-- Lens Protocol - https://aave.notion.site/Grants-Application-eec79f59fbad4e34b51acc3c936073a2 
-- Lit Protocol - https://github.com/LIT-Protocol/LitGrants 
+- Lens Protocol Grants - https://aave.notion.site/Grants-Application-eec79f59fbad4e34b51acc3c936073a2 
+- Lit Protocol Grants - https://github.com/LIT-Protocol/LitGrants 
 - Livepeer Grants - https://github.com/livepeer/Grant-Program 
 - Meta Gamma Delta - https://metagammadelta.com/grants/ 
 - Metacartel Grants - https://www.metacartel.org/grants/ 
 - Moonbeam Grant Program - https://moonbeam.foundation/grants/ 
-- PoolGrants - https://poolgrants.org/ 
+- PoolTogether Grants - https://poolgrants.org/ 
 - Radicle Grants - https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU 
 - SKALE Grants Program - https://skale.space/developers#grants 
 - Streamr Data Fund - https://streamr.network/fund/ 
