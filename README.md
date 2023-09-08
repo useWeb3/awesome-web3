@@ -264,16 +264,22 @@ A curated list of free, community tutorials that are based around specific proje
 - NFT Lottery DApp - https://medium.com/buildbear/building-an-nft-lottery-step-by-step-guide-for-creating-a-smart-contract-and-frontend-82d453833e1f 
 - Create Rentable NFTs Using ERC-4907 Standard - https://www.buildbear.io/resources/guides-and-tutorials/Rentable_NFTs 
 - Creating Royalty NFTs using ERC-2981: A Step-by-Step Guide - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_NFT 
+- Deploy Your Own Royalty Splitter Contract with BuildBear’s No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_Splitter_Contract 
 - Deploy Your Own Azuki ERC721A NFT with BuildBear's No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/ERC721A_NFT 
+- Enhance Your Web3 Development with These Essential Tools - https://www.buildbear.io/resources/guides-and-tutorials/web3_dev_tools 
 - Euler Finance’s 196 Million Flash Loan Exploit - https://medium.com/buildbear/a-comprehensive-analysis-of-euler-finances-196-million-flash-loan-exploit-and-a-step-by-step-guide-691a31f26452 
+- In-Depth Technical QA Dive into UniLendV2 || Reporting a Front-End Bug - https://www.buildbear.io/resources/guides-and-tutorials/Unilendv2_QA 
 - Learn and deploy an ERC 1155 smart contract - https://medium.com/buildbear/learn-and-deploy-an-erc-1155-smart-contract-most-used-by-web3-games-f67e6f291e16 
 - Learn How to Create Liquidity Pools on UniswapV3 for New ERC20 Tokens - https://www.buildbear.io/resources/guides-and-tutorials/LP_on_UniSwapv3 
 - Learn How to Perform a Sandwich Attack - https://www.buildbear.io/resources/guides-and-tutorials/Sandwich_Attack 
 - Mastering Smart Contract Testing: A Comprehensive Guide to Hardhat - https://medium.com/buildbear/mastering-smart-contract-testing-a-comprehensive-guide-to-hardhat-5806005c2352 
+- Most Common Vulnerabilities In Solidity: In-Depth Part 1 - https://www.buildbear.io/resources/guides-and-tutorials/Common_Vulnerabilities_part_1 
+- Most Common Vulnerabilities In Solidity: In-Depth Part 2 - https://www.buildbear.io/resources/guides-and-tutorials/Common_Vulnerabilities_part_2 
 - No-Code Smart Contract Development and Deployment to Your Private Testnet with Just 1 Click - https://www.buildbear.io/resources/guides-and-tutorials/1_click_deploy 
 - Re-constructing the GDS Hack - https://medium.com/buildbear/re-constructing-the-gds-hack-things-that-you-should-actually-know-to-code-safe-protocols-d0824b1d5710 
 - Recreating Kubz NFT Hack - https://medium.com/buildbear/recreating-kubz-nft-contract-hack-8eef73ff0878 
 - Creating Token Bound Accounts(TBA) Using ERC-6551 - https://www.buildbear.io/resources/guides-and-tutorials/TokenBound_accounts 
+- Understanding the Mechanics of Aave V3 - https://www.buildbear.io/resources/guides-and-tutorials/Aave_V3 
 - Unveiling the Power of Spark Protocol: A Comprehensive Review - https://medium.com/buildbear/unveiling-the-power-of-spark-protocol-a-comprehensive-review-aacb6ad5af1a 
 - A Friendly Introduction to Zero Knowledge - https://zkintro.com/articles/friendly-introduction-to-zero-knowledge 
 - A guide for reusing test code to validate smart contract exploits - https://medium.com/immunefi/a-step-by-step-guide-for-reusing-development-test-code-to-validate-smart-contract-exploits-31ffb1afd044 
