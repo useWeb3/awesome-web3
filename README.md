@@ -101,6 +101,7 @@ All the courses listed have been taken or highly recommended by others. They're 
 - Kerala Blockchain Academy - https://elearning.kba.ai/ 
 - Kernel - https://www.kernel.community/en/ 
 - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course - https://www.youtube.com/watch?v=gyMwXuJrbJQQ 
+- Learn Solidity - https://www.alchemy.com/university/courses/solidity 
 - Learn to Earn - Data program - https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ 
 - LearnWeb3 DAO - https://www.learnweb3.io 
 - MetaMask Learn - https://learn.metamask.io/ 
@@ -242,6 +243,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - Quick dApp - https://github.com/MatthieuScarset/quick-dapp 
 - Scaffold-ETH - https://github.com/scaffold-eth/scaffold-eth 
 - Semaphore Boilerplate - https://github.com/semaphore-protocol/boilerplate 
+- Solidity Next.js Starter - https://github.com/tomhirst/solidity-nextjs-starter 
 - Solidity template - https://github.com/paulrberg/solidity-template 
 - Starknet Hardhat example - https://github.com/Shard-Labs/starknet-hardhat-example 
 - Starknet React example - https://github.com/fracek/starknet-react-example 
@@ -273,9 +275,12 @@ A curated list of free, community tutorials that are based around specific proje
 - Learn How to Create Liquidity Pools on UniswapV3 for New ERC20 Tokens - https://www.buildbear.io/resources/guides-and-tutorials/LP_on_UniSwapv3 
 - Learn How to Perform a Sandwich Attack - https://www.buildbear.io/resources/guides-and-tutorials/Sandwich_Attack 
 - Mastering Smart Contract Testing: A Comprehensive Guide to Hardhat - https://medium.com/buildbear/mastering-smart-contract-testing-a-comprehensive-guide-to-hardhat-5806005c2352 
+- Meet Holesky: Ethereum’s Latest Testnet. Learn How to 10x Your Dapp Development - https://www.buildbear.io/resources/guides-and-tutorials/Holesky_testnet 
 - Most Common Vulnerabilities In Solidity: In-Depth Part 1 - https://www.buildbear.io/resources/guides-and-tutorials/Common_Vulnerabilities_part_1 
 - Most Common Vulnerabilities In Solidity: In-Depth Part 2 - https://www.buildbear.io/resources/guides-and-tutorials/Common_Vulnerabilities_part_2 
+- Must Have Smart Contract Auditing Tools for Auditors and Developers - https://www.buildbear.io/resources/guides-and-tutorials/Auditor_tools 
 - No-Code Smart Contract Development and Deployment to Your Private Testnet with Just 1 Click - https://www.buildbear.io/resources/guides-and-tutorials/1_click_deploy 
+- In Depth QA Testing Dyson Finance Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Dyson_Finance 
 - Re-constructing the GDS Hack - https://medium.com/buildbear/re-constructing-the-gds-hack-things-that-you-should-actually-know-to-code-safe-protocols-d0824b1d5710 
 - Recreating Kubz NFT Hack - https://medium.com/buildbear/recreating-kubz-nft-contract-hack-8eef73ff0878 
 - Creating Token Bound Accounts(TBA) Using ERC-6551 - https://www.buildbear.io/resources/guides-and-tutorials/TokenBound_accounts 
@@ -298,12 +303,14 @@ A curated list of free, community tutorials that are based around specific proje
 - Polygon: Bridging ERC-20 from Ethereum to Polygon - https://docs.chainstack.com/docs/polygon-tutorial-bridging-erc20-from-ethereum-to-polygon 
 - Build Your Own Decentralized Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Find_out_what_is_SBT_Auth_and_learn_to_create_your_own_system 
 - Building in Public an Open Source Solana Wallet Cross-Platform App with Expo, Web3 and React Native - https://moviendo.me/building-in-public-an-open-source-solana-wallet-cross-platform-app-with-expo-web3-react-native/index.html 
+- Circom language tutorial with circomlib walkthrough - https://www.rareskills.io/post/circom-tutorial 
 - Clean Contracts - https://www.wslyvh.com/clean-contracts/ 
 - Connect Users to MetaMask - https://medium.com/coinmonks/web3-react-connect-users-to-metamask-or-any-wallet-from-your-frontend-241fd538ed39 
 - Constructing ZK SNARK Circuits - https://jtriley.substack.com/p/constructing-zk-snark-circuits 
 - How to create a Zero Knowledge DApp: From zero to production - https://vivianblog.hashnode.dev/how-to-create-a-zero-knowledge-dapp-from-zero-to-production 
 - Create an ERC20 token payment splitting smart contract - https://medium.com/coinmonks/create-an-erc20-token-payment-splitting-smart-contract-c79436470ccc 
 - Create your own NFT collection on Ethereum w/Solidity - https://eda.hashnode.dev/create-your-own-nft-collection-on-ethereum 
+- Creating a Wallet Application Using web3.js v4 and ReactJS - https://blog.chainsafe.io/creating-a-wallet-application-using-web3-js-v4-and-reactjs-497339c0b568 
 - Dapp UX guides - https://rimble.consensys.design/guides 
 - DappTools: Supercharge Your Smart Contracts - https://eattheblocks.com/dapptools-supercharge-your-smart-contracts/ 
 - Deep Dive Into Solidity Libraries - https://coinsbench.com/deep-dive-into-solidity-libraries-e9bd7f9061fb 
@@ -316,6 +323,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Dissecting EVM using go-ethereum - Part 3 - https://medium.com/@deliriusz/dissecting-evm-using-go-ethereum-eth-client-implementation-part-iii-bytecode-interpreter-8f144004ed7a 
 - EIP-2535 Diamond standard - https://soliditydeveloper.com/eip-2535 
 - ERC20 token standard - https://ethereumdev.io/understand-the-erc20-token-smart-contract/ 
+- ERC20 Weirdness & Attacks Part 1 - https://33audits.hashnode.dev/erc20-weirdness-attacks-part-1 
 - Ethereum Dev Speed Run - https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c 
 - Ethereum logs tutorial series: Logs and filters - https://docs.chainstack.com/docs/ethereum-logs-tutorial-series-logs-and-filters 
 - Ethereum private keys attacks - https://medium.com/@pierreia/quick-tour-on-ethereum-private-keys-attacks-3082846b7632 
@@ -376,6 +384,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Master Solidity - Storage factory - https://www.razacodes.com/blog/Simple-Storage-Factory 
 - Maximizing Efficiency - https://coinsbench.com/maximizing-efficiency-how-gas-optimization-can-streamline-your-smart-contracts-4bafcc6bf321 
 - Meta-Transactions - https://blog.smlxl.io/meta-transactions-28047138ef6d 
+- Minimal Proxy Compendium - https://banteg.xyz/posts/minimal-proxies/ 
 - NFT avatars for ENS profiles - https://medium.com/the-ethereum-name-service/nft-avatar-support-for-ens-profiles-bd4a5553f089 
 - Noxx - https://noxx.substack.com/ 
 - On-chain, generative NFTs - https://medium.com/@beautifooldata/contract-development-of-buddy-buddy-tags-fun-completely-on-chain-generative-nfts-for-be9766bb680d 
@@ -414,6 +423,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Anatomy of a STARK - https://dev.to/tonyolendo/the-complete-full-stack-guide-to-getting-started-with-zero-knowledge-proofs-using-circom-and-zk-snarks-part-2-58o 
 - Zero-knowledge is easy or the ultimate how-to article - https://blog.borodutch.com/zero-knowledge-is-easy-or-the-ultimate-how-to-article/ 
 - Tips and tricks to save gas - https://mudit.blog/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size/ 
+- Under the hood of zkSNARK Groth16 protocol - https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-2843b0d1558b 
 - Understanding Solidity Design Patterns - https://hackernoon.com/solidity-tutorial-understanding-design-patterns-part-1 
 - Uniswap v2 Code walk-through - https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/ 
 - Unit testing in Starknet - https://perama-v.github.io/cairo/examples/unit_test/ 
@@ -528,6 +538,7 @@ These websites all contain a huge amount of information on anything related to W
 - Ethereum StackExchange - https://ethereum.stackexchange.com/ 
 - EthFiddle - https://ethfiddle.com/ 
 - EVM Codes - https://www.evm.codes/ 
+- The EVM Handbook - https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d 
 - Gitcoin - https://gitcoin.co/ 
 - lil web3 - https://github.com/m1guelpf/lil-web3 
 - Node Guardians - https://nodeguardians.io 
