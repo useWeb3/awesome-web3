@@ -241,7 +241,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - nplate - https://github.com/whitenois3/nplate 
 - Popular Contract Templates - https://github.com/marcelc63/popular-contract-templates 
 - Quick dApp - https://github.com/MatthieuScarset/quick-dapp 
-- Scaffold-ETH - https://github.com/scaffold-eth/scaffold-eth 
+- Scaffold-ETH - https://github.com/scaffold-eth/scaffold-eth-2 
 - Semaphore Boilerplate - https://github.com/semaphore-protocol/boilerplate 
 - Solidity Next.js Starter - https://github.com/tomhirst/solidity-nextjs-starter 
 - Solidity template - https://github.com/paulrberg/solidity-template 
