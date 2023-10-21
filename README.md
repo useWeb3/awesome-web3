@@ -265,6 +265,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Build a Voting Smart Contract  - https://medium.com/buildbear/a-step-by-step-guide-to-building-and-deploying-a-voting-smart-contract-on-the-blockchain-468665034c9e 
 - NFT Lottery DApp - https://medium.com/buildbear/building-an-nft-lottery-step-by-step-guide-for-creating-a-smart-contract-and-frontend-82d453833e1f 
 - Create Rentable NFTs Using ERC-4907 Standard - https://www.buildbear.io/resources/guides-and-tutorials/Rentable_NFTs 
+- Create Customized Private Omni Testnets - https://www.buildbear.io/resources/guides-and-tutorials/omniNetwork 
 - Creating Royalty NFTs using ERC-2981: A Step-by-Step Guide - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_NFT 
 - Deploy Your Own Royalty Splitter Contract with BuildBear’s No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_Splitter_Contract 
 - Deploy Your Own Azuki ERC721A NFT with BuildBear's No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/ERC721A_NFT 
@@ -280,6 +281,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Most Common Vulnerabilities In Solidity: In-Depth Part 2 - https://www.buildbear.io/resources/guides-and-tutorials/Common_Vulnerabilities_part_2 
 - Must Have Smart Contract Auditing Tools for Auditors and Developers - https://www.buildbear.io/resources/guides-and-tutorials/Auditor_tools 
 - No-Code Smart Contract Development and Deployment to Your Private Testnet with Just 1 Click - https://www.buildbear.io/resources/guides-and-tutorials/1_click_deploy 
+- Build Your Own Decentralized Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_BuildBear 
 - In Depth QA Testing Dyson Finance Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Dyson_Finance 
 - Re-constructing the GDS Hack - https://medium.com/buildbear/re-constructing-the-gds-hack-things-that-you-should-actually-know-to-code-safe-protocols-d0824b1d5710 
 - Recreating Kubz NFT Hack - https://medium.com/buildbear/recreating-kubz-nft-contract-hack-8eef73ff0878 
