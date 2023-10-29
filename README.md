@@ -129,6 +129,7 @@ There are a lot of projects that allow you to earn something while you learn. Wh
 - Dework - https://app.dework.xyz/ 
 - Gitcoin - https://gitcoin.co/explorer 
 - Layer3 - https://beta.layer3.xyz/bounties 
+- Overmind - https://overmind.xyz/?utm_source=useWeb3_Earn 
 - RabbitHole - https://app.rabbithole.gg/ 
 
 
