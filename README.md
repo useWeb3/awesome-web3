@@ -71,6 +71,8 @@ All the courses listed have been taken or highly recommended by others. They're 
 - 30 Days of Web3 - https://www.30daysofweb3.xyz/ 
 - Rust-and-Solana-development-for-beginners-ICB - https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners 
 - a16z Crypto Startup School - https://a16z.com/crypto-startup-school/ 
+- Base Bootcamp - https://base.org/bootcamp 
+- Base Camp - https://docs.base.org/base-camp/docs/welcome 
 - Become an Ethereum Blockchain Developer - https://ethereum-blockchain-developer.com/ 
 - Blockchain and Money - https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/ 
 - Blockchain-based Systems Engineering - https://github.com/sebischair/bbse 
@@ -153,11 +155,14 @@ These grant and ecosystem support programs can help you build your own projects,
 - Livepeer Grants - https://github.com/livepeer/Grant-Program 
 - Meta Gamma Delta - https://metagammadelta.com/grants/ 
 - Metacartel Grants - https://www.metacartel.org/grants/ 
+- Metamask Grants DAO - https://metamaskgrants.org/ 
 - Moonbeam Grant Program - https://moonbeam.foundation/grants/ 
 - PoolTogether Grants - https://poolgrants.org/ 
 - Radicle Grants - https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU 
+- Road to Devcon Grants - https://esp.ethereum.foundation/devcon-grants 
 - SKALE Grants Program - https://skale.space/developers#grants 
 - Streamr Data Fund - https://streamr.network/fund/ 
+- Swarm Grants - https://my.ethswarm.org/grants 
 - Synthetix Grants Council - https://grants.synthetix.io/ 
 - The Graph Grants - https://thegraph.foundation/ 
 - UMA Grants for Developer Support - https://grants.umaproject.org 
@@ -260,6 +265,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 ## Tutorials 💻 
 A curated list of free, community tutorials that are based around specific projects, tasks or challenges. They include step-by-step written instructions, screenshots and code examples to help you practice and master new skills.
 
+- 3A DAO Chosen BuildBear Sandbox for Beta Testing their Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/3A_DAO 
 - Build Your Own Decentralized Lending Protocol - https://medium.com/buildbear/build-your-own-decentralized-lending-protocol-8453c3e4196c 
 - Build your own Decentralized Exchange - https://medium.com/buildbear/build-your-own-decentralized-exchange-4ccabd519d26 
 - Building a Decentralized NFT Marketplace with Solidity and Hardhat: A Step-by-Step Tutorial - https://medium.com/buildbear/building-a-decentralized-nft-marketplace-with-solidity-and-hardhat-a-step-by-step-tutorial-cef7af808b93 
@@ -270,8 +276,10 @@ A curated list of free, community tutorials that are based around specific proje
 - Creating Royalty NFTs using ERC-2981: A Step-by-Step Guide - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_NFT 
 - Deploy Your Own Royalty Splitter Contract with BuildBear’s No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_Splitter_Contract 
 - Deploy Your Own Azuki ERC721A NFT with BuildBear's No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/ERC721A_NFT 
+- Elevate Protocol Development & Testing with Catapulta and BuildBear Sandbox Integration - https://www.buildbear.io/resources/guides-and-tutorials/catapulta_buildbear 
 - Enhance Your Web3 Development with These Essential Tools - https://www.buildbear.io/resources/guides-and-tutorials/web3_dev_tools 
 - Euler Finance’s 196 Million Flash Loan Exploit - https://medium.com/buildbear/a-comprehensive-analysis-of-euler-finances-196-million-flash-loan-exploit-and-a-step-by-step-guide-691a31f26452 
+- In-Depth Guide on ERC-4626 Tokenized Vaults - https://www.buildbear.io/resources/guides-and-tutorials/ERC4626 
 - In-Depth Technical QA Dive into UniLendV2 || Reporting a Front-End Bug - https://www.buildbear.io/resources/guides-and-tutorials/Unilendv2_QA 
 - Learn and deploy an ERC 1155 smart contract - https://medium.com/buildbear/learn-and-deploy-an-erc-1155-smart-contract-most-used-by-web3-games-f67e6f291e16 
 - Learn How to Create Liquidity Pools on UniswapV3 for New ERC20 Tokens - https://www.buildbear.io/resources/guides-and-tutorials/LP_on_UniSwapv3 
@@ -282,10 +290,11 @@ A curated list of free, community tutorials that are based around specific proje
 - Most Common Vulnerabilities In Solidity: In-Depth Part 2 - https://www.buildbear.io/resources/guides-and-tutorials/Common_Vulnerabilities_part_2 
 - Must Have Smart Contract Auditing Tools for Auditors and Developers - https://www.buildbear.io/resources/guides-and-tutorials/Auditor_tools 
 - No-Code Smart Contract Development and Deployment to Your Private Testnet with Just 1 Click - https://www.buildbear.io/resources/guides-and-tutorials/1_click_deploy 
-- Build Your Own Decentralized Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_BuildBear 
+- Optimize Your Dapp Development and Testing with Hardhat x BuildBear - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_BuildBear 
 - In Depth QA Testing Dyson Finance Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Dyson_Finance 
 - Re-constructing the GDS Hack - https://medium.com/buildbear/re-constructing-the-gds-hack-things-that-you-should-actually-know-to-code-safe-protocols-d0824b1d5710 
 - Recreating Kubz NFT Hack - https://medium.com/buildbear/recreating-kubz-nft-contract-hack-8eef73ff0878 
+- Simplify and Optimize Protocol Deployments with Catapulta - https://www.buildbear.io/resources/guides-and-tutorials/catapulta 
 - Creating Token Bound Accounts(TBA) Using ERC-6551 - https://www.buildbear.io/resources/guides-and-tutorials/TokenBound_accounts 
 - Understanding the Mechanics of Aave V3 - https://www.buildbear.io/resources/guides-and-tutorials/Aave_V3 
 - Unveiling the Power of Spark Protocol: A Comprehensive Review - https://medium.com/buildbear/unveiling-the-power-of-spark-protocol-a-comprehensive-review-aacb6ad5af1a 
