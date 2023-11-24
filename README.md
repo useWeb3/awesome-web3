@@ -266,6 +266,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 A curated list of free, community tutorials that are based around specific projects, tasks or challenges. They include step-by-step written instructions, screenshots and code examples to help you practice and master new skills.
 
 - 3A DAO Chosen BuildBear Sandbox for Beta Testing their Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/3A_DAO 
+- Automate Contract Deployment with Hardhat Ignition  - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_Ignition 
 - Build Your Own Decentralized Lending Protocol - https://medium.com/buildbear/build-your-own-decentralized-lending-protocol-8453c3e4196c 
 - Build your own Decentralized Exchange - https://medium.com/buildbear/build-your-own-decentralized-exchange-4ccabd519d26 
 - Building a Decentralized NFT Marketplace with Solidity and Hardhat: A Step-by-Step Tutorial - https://medium.com/buildbear/building-a-decentralized-nft-marketplace-with-solidity-and-hardhat-a-step-by-step-tutorial-cef7af808b93 
@@ -281,6 +282,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Euler Finance’s 196 Million Flash Loan Exploit - https://medium.com/buildbear/a-comprehensive-analysis-of-euler-finances-196-million-flash-loan-exploit-and-a-step-by-step-guide-691a31f26452 
 - In-Depth Guide on ERC-4626 Tokenized Vaults - https://www.buildbear.io/resources/guides-and-tutorials/ERC4626 
 - In-Depth Technical QA Dive into UniLendV2 || Reporting a Front-End Bug - https://www.buildbear.io/resources/guides-and-tutorials/Unilendv2_QA 
+- Learn How to integrate UniswapV3 into your smart contracts. - https://www.buildbear.io/resources/guides-and-tutorials/uniswapv3 
 - Learn and deploy an ERC 1155 smart contract - https://medium.com/buildbear/learn-and-deploy-an-erc-1155-smart-contract-most-used-by-web3-games-f67e6f291e16 
 - Learn How to Create Liquidity Pools on UniswapV3 for New ERC20 Tokens - https://www.buildbear.io/resources/guides-and-tutorials/LP_on_UniSwapv3 
 - Learn How to Perform a Sandwich Attack - https://www.buildbear.io/resources/guides-and-tutorials/Sandwich_Attack 
@@ -319,6 +321,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Clean Contracts - https://www.wslyvh.com/clean-contracts/ 
 - Connect Users to MetaMask - https://medium.com/coinmonks/web3-react-connect-users-to-metamask-or-any-wallet-from-your-frontend-241fd538ed39 
 - Constructing ZK SNARK Circuits - https://jtriley.substack.com/p/constructing-zk-snark-circuits 
+- How to Create a 2-way Communication Smart Contract With Solidity and Axelar - https://axelar.network/blog/2-way-cross-chain-communication-smart-contract-solidity 
 - How to create a Zero Knowledge DApp: From zero to production - https://vivianblog.hashnode.dev/how-to-create-a-zero-knowledge-dapp-from-zero-to-production 
 - Create an ERC20 token payment splitting smart contract - https://medium.com/coinmonks/create-an-erc20-token-payment-splitting-smart-contract-c79436470ccc 
 - Create your own NFT collection on Ethereum w/Solidity - https://eda.hashnode.dev/create-your-own-nft-collection-on-ethereum 
@@ -361,10 +364,13 @@ A curated list of free, community tutorials that are based around specific proje
 - How does Ethereum Manage Data - https://blog.smlxl.io/how-does-ethereum-manage-data-3ee85263134b 
 - How does Ethereum work, anyway? - https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway 
 - How Tornado Cash Works - https://www.rareskills.io/post/how-does-tornado-cash-work 
+- How to Build a Cross-Chain Airdrop DApp With Solidity, Next.js and Axelar - https://axelar.network/blog/cross-chain-airdrop-dapp-tutorial 
 - How to Build a Multi-Chain NFT Marketplace on Ethereum, Polygon and Binance Smart Chain using Solidity, React, Hardhat and Ethers.js - https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-on-ethereum-polygon-and-binance-smart-chain-using-solidity-react-hardhat-and-ethersjs 
 - How to Build a Wallet Generator for Solana in React - https://www.quicknode.com/guides/web3-sdks/how-to-build-a-wallet-generator-for-solana-in-react 
 - Building a web3 dapp using Zero-knowledge (Snarks) Boilerplate - https://hackernoon.com/how-to-use-a-zero-knowledge-dapp-boilerplate 
+- Build a Full-Stack Interchain Application With Next.js, Solidity & Axelar - https://axelar.network/blog/how-to-build-interchain-dapp-with-next.js-solidity-and-Axelar 
 - How To Create a ZK Smart Contract - https://betterprogramming.pub/how-to-create-a-zk-smart-contract-cd948a673749 
+- How to Deploy an Application With the Same Address Cross-Chain - https://axelar.network/blog/same-address-cross-chain-tutorial 
 - How to PoC your Bug Leads - https://medium.com/immunefi/how-to-poc-your-bug-leads-5ec76abdc1d8 
 - How To Save 50% on Gas Costs - https://medium.com/goldfinch-fi/solidity-learnings-how-to-save-50-on-gas-costs-5e598c364ab2 
 - How to use Dapptools - https://medium.com/@patrick.collins_58673/how-to-use-dapptools-code-like-makerdao-fed9909d055b 
@@ -456,6 +462,7 @@ These videos provide you with an amazing opportunity to learn from some of the b
 - Blockchain 101 - Keys & signing - https://youtu.be/xIDL_akeras 
 - Blockchain Coding Setup - https://youtu.be/4gHx-VESMMw 
 - Blockchain Theory 101 - https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/ 
+- Bridge Your Tokens On-Chain - https://www.youtube.com/watch?v=pCd_ZqZ93uQ 
 - Build and Deploy using Hardhat - https://youtu.be/GBc3lBrXEBo 
 - Building On DeFi With Solidity & Hardhat - https://youtu.be/R91Uhw07W3U 
 - Building on Ethereum - https://www.youtube.com/watch?v=ogjOjUjCVLk 
@@ -480,6 +487,7 @@ These videos provide you with an amazing opportunity to learn from some of the b
 - How to connect metamask to your smart contracts on a website - https://www.youtube.com/watch?v=pdsYCkUWrgQ 
 - How to create on-chain NFTs - https://youtu.be/UBGXFV1TQxc 
 - How to make NFT Art with On-Chain Metadata - https://www.youtube.com/watch?v=9oERTH9Bkw0 
+- How to Send Messages Cross-Chain with Axelar - https://www.youtube.com/watch?v=htMVIYzGA34 
 - How to stake / deposit NFT in Solidity smart contract - https://youtu.be/Uy2cELEZoQc 
 - How to store NFT metadata URI in ERC1155 Solidity - https://youtu.be/19SSvs32m8I 
 - How To Write a Solidity Contract pt1 - https://youtu.be/g73EGNKatDw 
