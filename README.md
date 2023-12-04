@@ -446,6 +446,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Uniswap v2 Code walk-through - https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/ 
 - Unit testing in Starknet - https://perama-v.github.io/cairo/examples/unit_test/ 
 - Voting system in Cairo - https://www.cairo-lang.org/docs/hello_cairo/voting.html 
+- What happens when you send 1 DAI - https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai 
 - Why Sign-In with Ethereum is a Game-Changer - https://blog.spruceid.com/sign-in-with-ethereum-is-a-game-changer-part-1/ 
 - Writing DAPPs with Flutter + Solidity - https://itnext.io/writing-dapps-with-flutter-solidity-27d0621fd01 
 - Building Your First Uniswap Integration - https://uniswap.org/blog/your-first-uniswap-integration 
@@ -539,6 +540,7 @@ These websites all contain a huge amount of information on anything related to W
 - A quick reference for EVM opcodes - https://github.com/wolflo/evm-opcodes 
 - a16z crypto glossary - https://a16zcrypto.com/content/article/crypto-glossary/ 
 - Awesome cryptography - https://github.com/sobolevn/awesome-cryptography 
+- Awesome Foundry - https://github.com/crisgarner/awesome-foundry 
 - Awesome Solidity - https://github.com/bkrem/awesome-solidity 
 - Awesome StarkNet - https://github.com/gakonst/awesome-starknet 
 - Best Practices for Smart Contract Development - https://yos.io/2019/11/10/smart-contract-development-best-practices/ 
