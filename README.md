@@ -450,6 +450,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Why Sign-In with Ethereum is a Game-Changer - https://blog.spruceid.com/sign-in-with-ethereum-is-a-game-changer-part-1/ 
 - Writing DAPPs with Flutter + Solidity - https://itnext.io/writing-dapps-with-flutter-solidity-27d0621fd01 
 - Building Your First Uniswap Integration - https://uniswap.org/blog/your-first-uniswap-integration 
+- Zero-Knowledge Proofs in Plain English - https://mirror.xyz/edatweets.eth/oKKkqrfaeyxOZoPpggC9VUUCZYW3z8QfWPu9u5T5m50 
 - ZK-Friendly Hash Functions - https://www.zellic.io/blog/zk-friendly-hash-functions 
 - ZK-SNARKS with circom - https://docs.circom.io/ 
 
