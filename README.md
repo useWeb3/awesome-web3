@@ -68,6 +68,7 @@ Courses are a great way to learn about blockchain and web3 development. They off
 All the courses listed have been taken or highly recommended by others. They're either free or offer free introductory lessons, so you can try out their formats before considering to purchase.
 
 - _buildspace - https://buildspace.so/ 
+- Cyfrin Updraft - https://updraft.cyfrin.io/ 
 - 30 Days of Web3 - https://www.30daysofweb3.xyz/ 
 - Rust-and-Solana-development-for-beginners-ICB - https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners 
 - a16z Crypto Startup School - https://a16z.com/crypto-startup-school/ 
@@ -183,6 +184,7 @@ These guides provide a more structured approach to learning.
 - Learn Solidity - https://www.freecodecamp.org/news/learn-solidity-handbook/ 
 - Road to ZK - https://plum-lightning-36c.notion.site/Road-to-ZK-2e85993b316b4c7c831bcdc866005e1b 
 - What is Web3 - https://www.useweb3.xyz/guides/what-is-web3 
+- Zero Knowledge Canon - https://a16zcrypto.com/posts/article/zero-knowledge-canon/ 
 
 
 ## Movies 🎬 
