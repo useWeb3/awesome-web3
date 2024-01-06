@@ -27,6 +27,7 @@ Books are still one most popular ways to acquire new knowledge. These books will
 - Coding Democracy - https://amzn.to/3CkYQIv 
 - Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations - https://amzn.to/3zDnDEW 
 - Ethereum for Web Developers - https://amzn.to/2YbZVBG 
+- Foundations of Distributed Consensus and Blockchains - https://www.distributedconsensus.net/ 
 - Foundry Book - https://book.getfoundry.sh/ 
 - Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment - https://amzn.to/3Fai5Tq 
 - How to DeFi: Advanced - https://amzn.to/3osVr4i 
@@ -37,6 +38,7 @@ Books are still one most popular ways to acquire new knowledge. These books will
 - The MoonMath Manual - https://leastauthority.com/community-matters/moonmath-manual/ 
 - Out of the Ether - https://amzn.to/3A2YMsS 
 - Proof of Stake - https://amzn.to/3vDoDaX 
+- Read Write Own - Building the Next Era of the Internet - https://readwriteown.com/ 
 - Solidity Design Patterns - https://www.amazon.com/dp/B0BW7PHPZT 
 - Solidity Starters: A Beginners Friendly book - https://www.amazon.com/dp/B0BHJBF4W2 
 - The Cryptopians - https://amzn.to/3JB9I6e 
@@ -44,6 +46,8 @@ Books are still one most popular ways to acquire new knowledge. These books will
 - The Network State - https://amzn.to/3vGXF28 
 - Token Economy - https://amzn.to/2WBFXiQ 
 - Upgrading Ethereum - https://eth2book.info/ 
+- Web3: Charting the Internet's Next Economic and Cultural Frontier - https://www.amazon.de/Web3-Charting-Internets-Economic-Cultural/dp/006329995X 
+- Web3: The Insights You Need from Harvard Business Review - https://store.hbr.org/product/web3-the-insights-you-need-from-harvard-business-review/10631 
 
 
 ## Code Challenges 🏆 
@@ -72,9 +76,12 @@ All the courses listed have been taken or highly recommended by others. They're 
 - 30 Days of Web3 - https://www.30daysofweb3.xyz/ 
 - Rust-and-Solana-development-for-beginners-ICB - https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners 
 - a16z Crypto Startup School - https://a16z.com/crypto-startup-school/ 
+- Alchemy University - https://university.alchemy.com/ 
+- Bankless Academy - https://app.banklessacademy.com/ 
 - Base Bootcamp - https://base.org/bootcamp 
 - Base Camp - https://docs.base.org/base-camp/docs/welcome 
 - Become an Ethereum Blockchain Developer - https://ethereum-blockchain-developer.com/ 
+- Bitcoin and Cryptocurrency Technologies - https://www.coursera.org/learn/cryptocurrency 
 - Blockchain and Money - https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/ 
 - Blockchain-based Systems Engineering - https://github.com/sebischair/bbse 
 - Blockchain @ Berkeley - https://blockchain.berkeley.edu/courses/ 
@@ -85,17 +92,21 @@ All the courses listed have been taken or highly recommended by others. They're 
 - Code with Ethereum & Solidity - https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/ 
 - ConsenSys Academy - https://consensys.net/academy/ 
 - CryptoHack - https://cryptohack.org/courses/ 
+- Cryptolectures.io - https://cryptolectures.teachable.com/ 
+- DApp World - https://dapp-world.com/ 
+- De University of Ethereum - https://ueth.org/ 
 - DeFi MOOC - https://defi-learning.org/ 
 - Developer Bootcamp with Solidity (2021) - https://www.udemy.com/course/blockchain-developer/ 
 - Developing Applications on Ethereum Blockchain - https://www.pluralsight.com/courses/blockchain-ethereum-developing-applications 
 - Developer DAO academy - https://academy.developerdao.com/getting-started 
-- http://www.distributedsystemscourse.com/ - http://www.distributedsystemscourse.com/ 
+- Distributed Systems course - http://www.distributedsystemscourse.com/ 
 - Encode Club Bootcamps - https://www.encode.club/encode-bootcamps 
 - Figment Learn - https://learn.figment.io/ 
 - Get started with blockchain development - https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/ 
 - Global Blockchain Initiative - https://blockchaininitiative.org/ 
 - Harvard CS50 - https://www.youtube.com/watch?v=8mAITcNt710 
 - How Proof of Stake Ethereum Works - https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works 
+- Human DAO Academy - https://academy.humandao.org/ 
 - Enterprise Blockchain Technologies - https://github.com/hyperledger-labs/university-course 
 - Introduction to Ethers.js - https://www.chainshot.com/learn/ethers 
 - Introduction to Smart Contracts - https://www.defi-academy.com/courses/introduction-to-smart-contracts 
@@ -107,14 +118,19 @@ All the courses listed have been taken or highly recommended by others. They're 
 - Learn Solidity - https://www.alchemy.com/university/courses/solidity 
 - Learn to Earn - Data program - https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ 
 - LearnWeb3 DAO - https://www.learnweb3.io 
+- Macro – Teach Yourself Web3 - https://www.teachyourselfweb3.com/courses/teach-yourself-web3 
+- Mastering Blockchain and Distributed Ledger Technologies - https://erasmusmoocs.thinkific.com/courses/chaise 
 - MetaMask Learn - https://learn.metamask.io/ 
 - metaschool - https://metaschool.so/ 
 - NFT School - https://nftschool.dev/ 
+- NFTs and the Metaverse - https://www.unic.ac.cy/openmetaverse/mooc-nfts-metaverse/ 
 - Node Guardians - https://nodeguardians.io 
 - Odyssey DAO - https://www.odysseydao.com/ 
+- ProtoSchool - https://proto.school/tutorials 
 - Questbook - https://learn.questbook.xyz/ 
 - solidity-school - https://github.com/Aniket-Engg/solidity-school 
 - Teach Yourself Web3 - https://www.teachyourselfweb3.com/ 
+- Third Academy - https://www.third.academy/ 
 - Token Engineering Academy - https://tokenengineering.net/ 
 - Unit Masters - https://www.unitmasters.org/ 
 - useWeb3 Academy - https://academy.useweb3.xyz/ 
@@ -195,6 +211,8 @@ These documentaries help provide a better understanding of blockchain technology
 - Ethereum: The Infinite Garden - https://optimist.co/films/ethereum-the-infinite-garden/ 
 - Hopium Diaries - https://youtu.be/v1Z5BnBuFyE 
 - Inside the Dark Web - https://topdocumentaryfilms.com/inside-dark-web/ 
+- RUIN: Money, Ego and Deception at FTX - https://www.bloomberg.com/features/2023-ruin-ftx-documentary/ 
+- The Blockchain Life - https://www.primevideo.com/detail/The-Blockchain-Life/0JR3TIK7N4S3XI67AOQ9VJNS5I/ 
 - The Infinite Machine - movie - https://www.theinfinitemachinemovie.com/ 
 - The Rise and Rise of Bitcoin - https://www.imdb.com/title/tt2821314/ 
 - Trust Machine: The Story of Blockchain - https://www.imdb.com/title/tt7407496/ 
@@ -241,7 +259,9 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - Hardhat React boilerplate - https://github.com/symfoni/hardhat-react-boilerplate 
 - hardhat-starter-kit - https://github.com/smartcontractkit/hardhat-starter-kit 
 - Jolly Roger - https://github.com/wighawag/jolly-roger 
+- Next + MetaMask GasAPI Starter - https://github.com/Consensys/GasAPI-template 
 - MEV Template - https://github.com/DeGatchi/mev-template-rs/ 
+- Next + ShadcnUI + MetaMask SDK Starter - https://github.com/Consensys/Next-MetaMask-Template 
 - next-tailwind-hardhat - https://github.com/Shridhar-dev/next-tailwind-hardhat 
 - Next Web3 boilerplate - https://github.com/mirshko/next-web3-boilerplate 
 - Nexth Starter kit - https://github.com/wslyvh/nexth 
@@ -249,6 +269,8 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - nplate - https://github.com/whitenois3/nplate 
 - Popular Contract Templates - https://github.com/marcelc63/popular-contract-templates 
 - Quick dApp - https://github.com/MatthieuScarset/quick-dapp 
+- RainbowKit Social Login Boilerplate - https://github.com/TABASCOatw/particle-rainbowkit-boilerplate 
+- Social Logins with Particle Auth Core - https://github.com/TABASCOatw/particle-auth-core-demo 
 - Scaffold-ETH - https://github.com/scaffold-eth/scaffold-eth-2 
 - Semaphore Boilerplate - https://github.com/semaphore-protocol/boilerplate 
 - Solidity Next.js Starter - https://github.com/tomhirst/solidity-nextjs-starter 
@@ -258,6 +280,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - Sveltekit EVM Bootstrap - https://github.com/chiuzon/sveltekit-evm-bootstrap 
 - SvelteKit  Web3 Hackaton Starter - https://github.com/chiuzon/sveltekit-web3-hackaton-starter 
 - Template Ethereum contracts - https://github.com/wighawag/template-ethereum-contracts 
+- TurboETH - https://www.turboeth.xyz/ 
 - Typescript Solidity Dev Starter Kit - https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit 
 - useDapp - https://github.com/EthWorks/useDApp 
 - Web3-Starter-Kit - https://github.com/lakshh07/Web3-Starter-Kit 
@@ -313,9 +336,11 @@ A curated list of free, community tutorials that are based around specific proje
 - Arbitrum Tutorials - https://github.com/OffchainLabs/arbitrum-tutorials 
 - Ethereum: Asset tokenization with Embark - https://docs.chainstack.com/docs/ethereum-tutorial-asset-tokenization-with-embark 
 - Authenticating Rails users with MetaMask  - https://dev.to/q9/finally-authenticating-rails-users-with-metamask-3fj 
+- Awesome Web3 - https://awesome-web3.com/ 
 - Become a Blockchain Engineer - https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f 
 - Become a smart contract auditor - https://cmichel.io/how-to-become-a-smart-contract-auditor/ 
 - Beginner's Guide to Yul - https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef 
+- Blockchain Development Resources - https://blockchain-development-resources.netlify.app/ 
 - Polygon: Bridging ERC-20 from Ethereum to Polygon - https://docs.chainstack.com/docs/polygon-tutorial-bridging-erc20-from-ethereum-to-polygon 
 - Build Your Own Decentralized Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Find_out_what_is_SBT_Auth_and_learn_to_create_your_own_system 
 - Building in Public an Open Source Solana Wallet Cross-Platform App with Expo, Web3 and React Native - https://moviendo.me/building-in-public-an-open-source-solana-wallet-cross-platform-app-with-expo-web3-react-native/index.html 
@@ -342,6 +367,7 @@ A curated list of free, community tutorials that are based around specific proje
 - ERC20 token standard - https://ethereumdev.io/understand-the-erc20-token-smart-contract/ 
 - ERC20 Weirdness & Attacks Part 1 - https://33audits.hashnode.dev/erc20-weirdness-attacks-part-1 
 - Ethereum Dev Speed Run - https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c 
+- Ethereum developer tools list - https://github.com/ConsenSys/ethereum-developer-tools-list 
 - Ethereum logs tutorial series: Logs and filters - https://docs.chainstack.com/docs/ethereum-logs-tutorial-series-logs-and-filters 
 - Ethereum private keys attacks - https://medium.com/@pierreia/quick-tour-on-ethereum-private-keys-attacks-3082846b7632 
 - Ethernaut x Foundry - https://blog.0xeval.me/ethernaut-x-foundry-0x0-hello-ethernaut 
@@ -426,6 +452,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Smock 2 - https://soliditydeveloper.com/smock2 
 - SMTChecker: (almost) practical superpower - https://medium.com/@sblowpckcr/smtchecker-almost-practical-superpower-5a3efdb3cf19 
 - SMTChecker, Remix & Dapptools - https://fv.ethereum.org/2021/12/01/smtchecker-dapptools/ 
+- Snakecharmers - https://snakecharmers.ethereum.org/ 
 - Solidity 101 - https://secureum.substack.com/p/solidity-101 
 - Solidity Events Guide - https://mirror.xyz/spacesailor.eth/LEe2yoLoqy97BWHyO6J65XhnG8t33Nmvz_Vsa3ve7rY 
 - Solidity Tutorial: All About Stack - https://betterprogramming.pub/solidity-tutorial-all-about-stack-c1ec6070fe60 
@@ -506,11 +533,13 @@ These videos provide you with an amazing opportunity to learn from some of the b
 - How to build an on-chain DAO - https://www.youtube.com/watch?v=AhJtmUqhAqg 
 - Learn Vyper by Examples - https://www.youtube.com/playlist?list=PLO5VPQH6OWdWOd-IJTfIzlM2a1yv1rSN- 
 - Learning Solidity - https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg 
+- Creating and Utilizing Session Keys - https://www.youtube.com/watch?v=euOahfA4Vec 
 - Live smart contract hacking - https://youtu.be/P8LXLoTUJ5g 
 - All about Logging and Events - https://www.youtube.com/watch?v=w18c9HLEuBs 
 - Checklist for NFT contract - https://www.youtube.com/watch?v=DQdvAuWcraE 
 - How to make NFT Art with On-Chain Metadata - https://www.youtube.com/watch?v=p36tXHX1JD8 
 - NFT Programming with Moralis - https://youtu.be/tBMk1iZa85Y 
+- Onboarding through Social Logins with Particle Network - https://www.youtube.com/watch?v=PIorEfDWRiE 
 - Oracles in 2 mins - https://youtu.be/1gVsV2PWUKU 
 - Programming a simple ERC token - https://www.youtube.com/playlist?list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD 
 - Publish your NFT on OpenSea - https://youtu.be/J4p1sdo3Rz4 
@@ -552,6 +581,7 @@ These websites all contain a huge amount of information on anything related to W
 - Buidl Guidl - https://buidlguidl.com/ 
 - Cairo by example - https://cairo-by-example.org/ 
 - Cookbook - an open source smart contract marketplace - https://www.cookbook.dev/ 
+- Cryptopedia - https://www.gemini.com/cryptopedia 
 - curious.xyz - https://curious.xyz/ 
 - DeFi Developer roadmap - https://github.com/OffcierCia/DeFi-Developer-Road-Map 
 - devpill.me - https://www.devpill.me/ 
@@ -564,6 +594,7 @@ These websites all contain a huge amount of information on anything related to W
 - EthFiddle - https://ethfiddle.com/ 
 - EVM Codes - https://www.evm.codes/ 
 - The EVM Handbook - https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d 
+- Free Web3 resources - https://www.freeweb3resources.com/ 
 - Gitcoin - https://gitcoin.co/ 
 - lil web3 - https://github.com/m1guelpf/lil-web3 
 - Node Guardians - https://nodeguardians.io 
@@ -573,12 +604,14 @@ These websites all contain a huge amount of information on anything related to W
 - smol-evm - https://github.com/karmacoma-eth/smol-evm 
 - Solidity by Example - https://solidity-by-example.org/ 
 - Solidity Patterns - https://fravoll.github.io/solidity-patterns/ 
+- Solidity Tips - https://soliditytips.com/ 
 - Tenderly - https://docs.tenderly.co/ 
 - The Sway Book - https://fuellabs.github.io/sway/latest/ 
 - thirdbrain - https://thirdbrain.vercel.app/ 
 - useful-solidity-patterns - https://github.com/dragonfly-xyz/useful-solidity-patterns 
 - Vyper by Example - https://vyper-by-example.org// 
 - Web3 by Example - https://www.web3byexample.com/ 
+- Web3 creators - https://www.web3creators.com/  
 - Web3 starter pack - https://cryptosociety.notion.site/Web3-Starter-Pack-5a922714348e4a7cbaa45b2f0a8861bd 
 - Zk Block - https://zkblock.app/ 
 
