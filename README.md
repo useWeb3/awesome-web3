@@ -21,6 +21,7 @@ Want to see more awesomeness? Check out our [website](https://www.useweb3.xyz/) 
 ## Books 📚 
 Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.
 
+- Absolute Essentials of Ethereum - https://www.amazon.co.uk/Absolute-Essentials-Ethereum-Business-Economics/dp/1032334185/ 
 - Blockchain Radicals - https://www.amazon.com/Blockchain-Radicals-Building-Beyond-Capitalism-ebook/dp/B0BLTTFRG4/ 
 - Build a Blockchain from Scratch in Go - https://web3coach.gumroad.com/l/build-a-blockchain-from-scratch-in-go 
 - Building ethereum dapps decentralized applications on the ethereum blockchain - https://amzn.to/3f22DhQ 
@@ -42,6 +43,7 @@ Books are still one most popular ways to acquire new knowledge. These books will
 - Solidity Design Patterns - https://www.amazon.com/dp/B0BW7PHPZT 
 - Solidity Starters: A Beginners Friendly book - https://www.amazon.com/dp/B0BHJBF4W2 
 - The Cryptopians - https://amzn.to/3JB9I6e 
+- The Genesis Book - https://www.amazon.com/Genesis-Book-Projects-Inspired-Bitcoin/dp/B0CQLMQRH7/ 
 - The Infinite Machine - https://amzn.to/3a3OfTu 
 - The Network State - https://amzn.to/3vGXF28 
 - Token Economy - https://amzn.to/2WBFXiQ 
@@ -193,12 +195,15 @@ These grant and ecosystem support programs can help you build your own projects,
 These guides provide a more structured approach to learning.
 
 - Ethereum Smart Contract Auditor Roadmap - https://github.com/razzorsec/AuditorsRoadmap/blob/main/README.md 
+- Guide on Crypto Applications Product Market Fit - https://mirror.xyz/iamchandan.eth/0bI3jEG7hP9jqJ_vjgLqupo9C_2FuVhepdswLNwAolY 
+- How to Protect Your Crypto Wallet 95% of the Time - https://mirror.xyz/iamchandan.eth/vuslsqt95p1vlNdy5WeKBFq0PUctybycdfchFmkySos 
 - Beginners Guide to Web3 - https://www.useweb3.xyz/guides/beginners-guide-to-web3 
 - Best resources to learn Solidity - https://www.useweb3.xyz/guides/best-resources-to-learn-solidity 
 - Clean Contracts - a guide on smart contract patterns & practices - https://www.useweb3.xyz/guides/clean-contracts 
 - DeFi Risk Tools & Resources - https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools 
 - Learn Solidity - https://www.freecodecamp.org/news/learn-solidity-handbook/ 
 - Road to ZK - https://plum-lightning-36c.notion.site/Road-to-ZK-2e85993b316b4c7c831bcdc866005e1b 
+- 4 ways to reduce⛽️Gas Fee paid to Ethereum blockchain. - https://mirror.xyz/iamchandan.eth/vuslsqt95p1vlNdy5WeKBFq0PUctybycdfchFmkySos 
 - What is Web3 - https://www.useweb3.xyz/guides/what-is-web3 
 - Zero Knowledge Canon - https://a16zcrypto.com/posts/article/zero-knowledge-canon/ 
 
@@ -245,6 +250,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - Ape Hackathon kit - https://github.com/wolovim/ape-hackathon-kit/ 
 - Basic Typescript Starter - https://github.com/nezz0746/typescript-eth-starter 
 - boilr3 - https://github.com/Envoy-VC/boilr3 
+- Build Onchain Apps - https://github.com/coinbase/build-onchain-apps 
 - celo-composer - https://github.com/celo-org/celo-composer 
 - chainlink-mix - https://github.com/smartcontractkit/chainlink-mix 
 - Circom Next starter - https://github.com/Darlington02/circom-next-starter 
@@ -303,10 +309,14 @@ A curated list of free, community tutorials that are based around specific proje
 - Deploy Your Own Royalty Splitter Contract with BuildBear’s No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_Splitter_Contract 
 - Deploy Your Own Azuki ERC721A NFT with BuildBear's No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/ERC721A_NFT 
 - Elevate Protocol Development & Testing with Catapulta and BuildBear Sandbox Integration - https://www.buildbear.io/resources/guides-and-tutorials/catapulta_buildbear 
+- Enhance Your Smart Contract Development with the Integration of LokiCode and BuildBear Sandbox. - https://www.buildbear.io/resources/guides-and-tutorials/loki_Code 
 - Enhance Your Web3 Development with These Essential Tools - https://www.buildbear.io/resources/guides-and-tutorials/web3_dev_tools 
 - Euler Finance’s 196 Million Flash Loan Exploit - https://medium.com/buildbear/a-comprehensive-analysis-of-euler-finances-196-million-flash-loan-exploit-and-a-step-by-step-guide-691a31f26452 
+- Guide to Becoming a Web3 Developer in 2024 - https://www.buildbear.io/blogs/Guide_to_Becoming_a_Web3_Developer 
 - In-Depth Guide on ERC-4626 Tokenized Vaults - https://www.buildbear.io/resources/guides-and-tutorials/ERC4626 
 - In-Depth Technical QA Dive into UniLendV2 || Reporting a Front-End Bug - https://www.buildbear.io/resources/guides-and-tutorials/Unilendv2_QA 
+- Inscription Spam Disrupting Developer Experiences on Public Testnets - https://www.buildbear.io/blogs/Inscription_Spam 
+- Introducing Scaffold-ETH-2 with the power of Mainnet Forks - https://www.buildbear.io/resources/guides-and-tutorials/Scaffold_ETH_2 
 - Learn How to integrate UniswapV3 into your smart contracts. - https://www.buildbear.io/resources/guides-and-tutorials/uniswapv3 
 - Learn and deploy an ERC 1155 smart contract - https://medium.com/buildbear/learn-and-deploy-an-erc-1155-smart-contract-most-used-by-web3-games-f67e6f291e16 
 - Learn How to Create Liquidity Pools on UniswapV3 for New ERC20 Tokens - https://www.buildbear.io/resources/guides-and-tutorials/LP_on_UniSwapv3 
