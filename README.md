@@ -200,6 +200,7 @@ These guides provide a more structured approach to learning.
 - Beginners Guide to Web3 - https://www.useweb3.xyz/guides/beginners-guide-to-web3 
 - Best resources to learn Solidity - https://www.useweb3.xyz/guides/best-resources-to-learn-solidity 
 - Clean Contracts - a guide on smart contract patterns & practices - https://www.useweb3.xyz/guides/clean-contracts 
+- Crypto glossary – important terms to navigate web3 - https://www.useweb3.xyz/guides/crypto-glossary 
 - DeFi Risk Tools & Resources - https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools 
 - Learn Solidity - https://www.freecodecamp.org/news/learn-solidity-handbook/ 
 - Road to ZK - https://plum-lightning-36c.notion.site/Road-to-ZK-2e85993b316b4c7c831bcdc866005e1b 
