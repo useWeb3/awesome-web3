@@ -314,12 +314,14 @@ A curated list of free, community tutorials that are based around specific proje
 - Enhance Your Web3 Development with These Essential Tools - https://www.buildbear.io/resources/guides-and-tutorials/web3_dev_tools 
 - Euler Finance’s 196 Million Flash Loan Exploit - https://medium.com/buildbear/a-comprehensive-analysis-of-euler-finances-196-million-flash-loan-exploit-and-a-step-by-step-guide-691a31f26452 
 - Guide to Becoming a Web3 Developer in 2024 - https://www.buildbear.io/blogs/Guide_to_Becoming_a_Web3_Developer 
+- Implementing NFT Royalties A Practical Tutorial on ERC721-C  - https://www.buildbear.io/resources/guides-and-tutorials/ERC721C 
 - In-Depth Guide on ERC-4626 Tokenized Vaults - https://www.buildbear.io/resources/guides-and-tutorials/ERC4626 
 - In-Depth Technical QA Dive into UniLendV2 || Reporting a Front-End Bug - https://www.buildbear.io/resources/guides-and-tutorials/Unilendv2_QA 
 - Inscription Spam Disrupting Developer Experiences on Public Testnets - https://www.buildbear.io/blogs/Inscription_Spam 
 - Introducing Scaffold-ETH-2 with the power of Mainnet Forks - https://www.buildbear.io/resources/guides-and-tutorials/Scaffold_ETH_2 
 - Learn How to integrate UniswapV3 into your smart contracts. - https://www.buildbear.io/resources/guides-and-tutorials/uniswapv3 
 - Learn and deploy an ERC 1155 smart contract - https://medium.com/buildbear/learn-and-deploy-an-erc-1155-smart-contract-most-used-by-web3-games-f67e6f291e16 
+- Learn how Stablecoins work and Create Your own Version Similar to USDC - https://www.buildbear.io/resources/guides-and-tutorials/StableCoin 
 - Learn How to Create Liquidity Pools on UniswapV3 for New ERC20 Tokens - https://www.buildbear.io/resources/guides-and-tutorials/LP_on_UniSwapv3 
 - Learn How to Perform a Sandwich Attack - https://www.buildbear.io/resources/guides-and-tutorials/Sandwich_Attack 
 - Mastering Smart Contract Testing: A Comprehensive Guide to Hardhat - https://medium.com/buildbear/mastering-smart-contract-testing-a-comprehensive-guide-to-hardhat-5806005c2352 
@@ -336,6 +338,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Creating Token Bound Accounts(TBA) Using ERC-6551 - https://www.buildbear.io/resources/guides-and-tutorials/TokenBound_accounts 
 - Understanding the Mechanics of Aave V3 - https://www.buildbear.io/resources/guides-and-tutorials/Aave_V3 
 - Unveiling the Power of Spark Protocol: A Comprehensive Review - https://medium.com/buildbear/unveiling-the-power-of-spark-protocol-a-comprehensive-review-aacb6ad5af1a 
+- What Is the Ethereum Cancun-Deneb (Dencun) Update? - https://www.buildbear.io/blogs/Dencun_upgrade 
 - A Friendly Introduction to Zero Knowledge - https://zkintro.com/articles/friendly-introduction-to-zero-knowledge 
 - A guide for reusing test code to validate smart contract exploits - https://medium.com/immunefi/a-step-by-step-guide-for-reusing-development-test-code-to-validate-smart-contract-exploits-31ffb1afd044 
 - A Guide to Designing Effective NFT Launches - https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/ 
