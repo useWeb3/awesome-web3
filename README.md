@@ -64,7 +64,7 @@ These interactive game tutorials get you through the basics of web3 development 
 - Etherhack - https://etherhack.positive.com/ 
 - Speedrun Ethereum - https://speedrunethereum.com/ 
 - The Ethernaut - https://ethernaut.openzeppelin.com/ 
-- VyperFun - https://vyper.fun/ 
+- VyperFun - https://learn.vyperlang.org/ 
 - Wriggly - https://www.wriggly.io/ 
 
 
@@ -229,7 +229,7 @@ Listen to some of the best minds in the space. This list contains several podcas
 
 - Bankless - https://linktr.ee/Bankless 
 - Chris Dixon and Naval Ravikant on the Tim Ferriss Podcast - https://tim.blog/2021/10/28/chris-dixon-naval-ravikant/ 
-- dev3 - https://dev3.fm/ 
+- dev3 - https://ivy.fm/podcast/dev3-1062011 
 - Devs Do Something - https://www.devsdosomething.fm/ 
 - Epicenter - https://epicenter.tv/ 
 - Hashing it Out - https://www.youtube.com/channel/UCAI6Gk0R_1aGa76ShKFA78Q/videos 
@@ -593,7 +593,7 @@ These websites all contain a huge amount of information on anything related to W
 - BestInWeb3 - https://bestinweb3.com/ 
 - Blockchain developer roadmap - https://roadmap.sh/blockchain 
 - Buidl Guidl - https://buidlguidl.com/ 
-- Cairo by example - https://cairo-by-example.org/ 
+- Cairo by example - https://cairo-by-example.com/ 
 - Cookbook - an open source smart contract marketplace - https://www.cookbook.dev/ 
 - Cryptopedia - https://www.gemini.com/cryptopedia 
 - curious.xyz - https://curious.xyz/ 
