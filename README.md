@@ -202,6 +202,7 @@ These guides provide a more structured approach to learning.
 - Clean Contracts - a guide on smart contract patterns & practices - https://www.useweb3.xyz/guides/clean-contracts 
 - Crypto glossary – important terms to navigate web3 - https://www.useweb3.xyz/guides/crypto-glossary 
 - DeFi Risk Tools & Resources - https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools 
+- Intro to DeFi – How to navigate the Degen world - https://www.useweb3.xyz/guides/defi-intro 
 - Learn Solidity - https://www.freecodecamp.org/news/learn-solidity-handbook/ 
 - Road to ZK - https://plum-lightning-36c.notion.site/Road-to-ZK-2e85993b316b4c7c831bcdc866005e1b 
 - 4 ways to reduce⛽️Gas Fee paid to Ethereum blockchain. - https://mirror.xyz/iamchandan.eth/vuslsqt95p1vlNdy5WeKBFq0PUctybycdfchFmkySos 
