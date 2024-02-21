@@ -299,6 +299,9 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 A curated list of free, community tutorials that are based around specific projects, tasks or challenges. They include step-by-step written instructions, screenshots and code examples to help you practice and master new skills.
 
 - 3A DAO Chosen BuildBear Sandbox for Beta Testing their Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/3A_DAO 
+- A Deep Dive into ERC-404 Token Standard and Crafting your Custom Token - https://www.buildbear.io/resources/guides-and-tutorials/erc404 
+- A Comprehensive Guide to ERC-6672: Multi-Redeemable NFTs - https://www.buildbear.io/blogs/erc6672 
+- A Practical Guide on Honeypot Attacks in Smart Contracts - https://www.buildbear.io/resources/guides-and-tutorials/honeypots 
 - Automate Contract Deployment with Hardhat Ignition  - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_Ignition 
 - Build Your Own Decentralized Lending Protocol - https://medium.com/buildbear/build-your-own-decentralized-lending-protocol-8453c3e4196c 
 - Build your own Decentralized Exchange - https://medium.com/buildbear/build-your-own-decentralized-exchange-4ccabd519d26 
@@ -338,6 +341,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Simplify and Optimize Protocol Deployments with Catapulta - https://www.buildbear.io/resources/guides-and-tutorials/catapulta 
 - Creating Token Bound Accounts(TBA) Using ERC-6551 - https://www.buildbear.io/resources/guides-and-tutorials/TokenBound_accounts 
 - Understanding the Mechanics of Aave V3 - https://www.buildbear.io/resources/guides-and-tutorials/Aave_V3 
+- Understanding Decentralized Identity with Smart Contract - https://www.buildbear.io/blogs/decentralized_identity 
 - Unveiling the Power of Spark Protocol: A Comprehensive Review - https://medium.com/buildbear/unveiling-the-power-of-spark-protocol-a-comprehensive-review-aacb6ad5af1a 
 - What Is the Ethereum Cancun-Deneb (Dencun) Update? - https://www.buildbear.io/blogs/Dencun_upgrade 
 - A Friendly Introduction to Zero Knowledge - https://zkintro.com/articles/friendly-introduction-to-zero-knowledge 
