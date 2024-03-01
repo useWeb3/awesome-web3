@@ -50,6 +50,7 @@ Books are still one most popular ways to acquire new knowledge. These books will
 - Upgrading Ethereum - https://eth2book.info/ 
 - Web3: Charting the Internet's Next Economic and Cultural Frontier - https://www.amazon.de/Web3-Charting-Internets-Economic-Cultural/dp/006329995X 
 - Web3: The Insights You Need from Harvard Business Review - https://store.hbr.org/product/web3-the-insights-you-need-from-harvard-business-review/10631 
+- ZK Proofs: explained like I'm 5! - https://eli5.zksync.io/ 
 
 
 ## Code Challenges 🏆 
@@ -300,7 +301,9 @@ A curated list of free, community tutorials that are based around specific proje
 
 - 3A DAO Chosen BuildBear Sandbox for Beta Testing their Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/3A_DAO 
 - A Deep Dive into ERC-404 Token Standard and Crafting your Custom Token - https://www.buildbear.io/resources/guides-and-tutorials/erc404 
+- ACTE: Revolutionizing Testing in the Digital Age - https://www.buildbear.io/blogs/acte 
 - A Comprehensive Guide to ERC-6672: Multi-Redeemable NFTs - https://www.buildbear.io/blogs/erc6672 
+- A Hands-On Guide to Modular Smart Contracts with Diamond Standard (EIP2535) - https://www.buildbear.io/resources/guides-and-tutorials/erc2535 
 - A Practical Guide on Honeypot Attacks in Smart Contracts - https://www.buildbear.io/resources/guides-and-tutorials/honeypots 
 - Automate Contract Deployment with Hardhat Ignition  - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_Ignition 
 - Build Your Own Decentralized Lending Protocol - https://medium.com/buildbear/build-your-own-decentralized-lending-protocol-8453c3e4196c 
