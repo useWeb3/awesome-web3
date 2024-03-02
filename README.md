@@ -258,6 +258,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - chainlink-mix - https://github.com/smartcontractkit/chainlink-mix 
 - Circom Next starter - https://github.com/Darlington02/circom-next-starter 
 - Create Eth App - https://github.com/paulrberg/create-eth-app 
+- Create WalletConnect Dapp - https://github.com/walletconnect/create-wc-dapp 
 - Create Web3 Dapp - https://createweb3dapp.alchemy.com/ 
 - dApp Starter - https://github.com/m1guelpf/dapp-starter 
 - Dapp Boilerplate - https://github.com/JalelTounsi/DappBoilerplate 
