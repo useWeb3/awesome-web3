@@ -28,6 +28,7 @@ Books are still one most popular ways to acquire new knowledge. These books will
 - Coding Democracy - https://amzn.to/3CkYQIv 
 - Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations - https://amzn.to/3zDnDEW 
 - Ethereum for Web Developers - https://amzn.to/2YbZVBG 
+- Build the EVM from scratch - evm-from-scratch.xyz 
 - Foundations of Distributed Consensus and Blockchains - https://www.distributedconsensus.net/ 
 - Foundry Book - https://book.getfoundry.sh/ 
 - Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment - https://amzn.to/3Fai5Tq 
