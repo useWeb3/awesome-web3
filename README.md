@@ -307,6 +307,7 @@ A curated list of free, community tutorials that are based around specific proje
 - A Comprehensive Guide to ERC-6672: Multi-Redeemable NFTs - https://www.buildbear.io/blogs/erc6672 
 - A Hands-On Guide to Modular Smart Contracts with Diamond Standard (EIP2535) - https://www.buildbear.io/resources/guides-and-tutorials/erc2535 
 - A Practical Guide on Honeypot Attacks in Smart Contracts - https://www.buildbear.io/resources/guides-and-tutorials/honeypots 
+- All You Need to Know about Ethereum Dencun Upgrade - https://www.buildbear.io/blogs/dencun_mainnet 
 - Automate Contract Deployment with Hardhat Ignition  - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_Ignition 
 - Build Your Own Decentralized Lending Protocol - https://medium.com/buildbear/build-your-own-decentralized-lending-protocol-8453c3e4196c 
 - Build your own Decentralized Exchange - https://medium.com/buildbear/build-your-own-decentralized-exchange-4ccabd519d26 
@@ -327,7 +328,10 @@ A curated list of free, community tutorials that are based around specific proje
 - In-Depth Guide on ERC-4626 Tokenized Vaults - https://www.buildbear.io/resources/guides-and-tutorials/ERC4626 
 - In-Depth Technical QA Dive into UniLendV2 || Reporting a Front-End Bug - https://www.buildbear.io/resources/guides-and-tutorials/Unilendv2_QA 
 - Inscription Spam Disrupting Developer Experiences on Public Testnets - https://www.buildbear.io/blogs/Inscription_Spam 
+- Integrating Uniswap V4 into Your Smart Contracts: A Step-by-Step Guide - https://www.buildbear.io/resources/guides-and-tutorials/uniswapv4 
 - Introducing Scaffold-ETH-2 with the power of Mainnet Forks - https://www.buildbear.io/resources/guides-and-tutorials/Scaffold_ETH_2 
+- Introducing BuildBear Remix Plugin: Enhanced Smart Contract Development on Remix IDE - https://www.buildbear.io/resources/guides-and-tutorials/remix_plugin 
+- Introducing the BuildBear VSCode Extension: Enhanced Smart Contract Development on VSCode IDE - https://www.buildbear.io/resources/guides-and-tutorials/vscode_extension 
 - Learn How to integrate UniswapV3 into your smart contracts. - https://www.buildbear.io/resources/guides-and-tutorials/uniswapv3 
 - Learn and deploy an ERC 1155 smart contract - https://medium.com/buildbear/learn-and-deploy-an-erc-1155-smart-contract-most-used-by-web3-games-f67e6f291e16 
 - Learn how Stablecoins work and Create Your own Version Similar to USDC - https://www.buildbear.io/resources/guides-and-tutorials/StableCoin 
@@ -613,6 +617,7 @@ These websites all contain a huge amount of information on anything related to W
 - ETH.Build - https://eth.build/ 
 - Ethereum Cat Herders - https://www.ethereumcatherders.com/ 
 - Ethereum Developer Tools List - https://github.com/ConsenSys/ethereum-developer-tools-list 
+- Ethereum Ecosystem - https://www.ethereum-ecosystem.com 
 - Ethereum.org Developer portal - https://ethereum.org/developers 
 - Ethereum StackExchange - https://ethereum.stackexchange.com/ 
 - EthFiddle - https://ethfiddle.com/ 
