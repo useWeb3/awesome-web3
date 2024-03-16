@@ -238,6 +238,7 @@ Listen to some of the best minds in the space. This list contains several podcas
 - Hashing it Out - https://www.youtube.com/channel/UCAI6Gk0R_1aGa76ShKFA78Q/videos 
 - Into the Bytecode - https://bytecode.substack.com/archive 
 - On The Other Side - https://www.othersidepod.xyz/ 
+- Protocol Explorer - https://www.youtube.com/@rahatcodes/streams 
 - Shadowy Super Coders - https://www.youtube.com/playlist?list=PLSMvK3DkHvw-QOR6Fk1AFSsH11xD5nA2X 
 - SIGNAL - https://signal-by-consensys.simplecast.com/ 
 - Solidity Galaxy Brain - https://www.soliditygalaxybrain.com/ 
@@ -625,6 +626,7 @@ These websites all contain a huge amount of information on anything related to W
 - The EVM Handbook - https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d 
 - Free Web3 resources - https://www.freeweb3resources.com/ 
 - Gitcoin - https://gitcoin.co/ 
+- Kiwi News - https://kiwistand.com/ 
 - lil web3 - https://github.com/m1guelpf/lil-web3 
 - Node Guardians - https://nodeguardians.io 
 - (Not So) Smart Contracts - https://github.com/crytic/not-so-smart-contracts/ 
