@@ -626,7 +626,7 @@ These websites all contain a huge amount of information on anything related to W
 - The EVM Handbook - https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d 
 - Free Web3 resources - https://www.freeweb3resources.com/ 
 - Gitcoin - https://gitcoin.co/ 
-- Kiwi News - https://kiwistand.com/ 
+- Kiwi News - https://news.kiwistand.com/ 
 - lil web3 - https://github.com/m1guelpf/lil-web3 
 - Node Guardians - https://nodeguardians.io 
 - (Not So) Smart Contracts - https://github.com/crytic/not-so-smart-contracts/ 
