@@ -259,7 +259,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - celo-composer - https://github.com/celo-org/celo-composer 
 - chainlink-mix - https://github.com/smartcontractkit/chainlink-mix 
 - Circom Next starter - https://github.com/Darlington02/circom-next-starter 
-- Create Eth App - https://github.com/paulrberg/create-eth-app 
+- Create Eth App - https://github.com/WalletConnect/create-eth-app 
 - Create WalletConnect Dapp - https://github.com/walletconnect/create-wc-dapp 
 - Create Web3 Dapp - https://createweb3dapp.alchemy.com/ 
 - dApp Starter - https://github.com/m1guelpf/dapp-starter 
