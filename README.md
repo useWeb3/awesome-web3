@@ -64,6 +64,7 @@ These interactive game tutorials get you through the basics of web3 development 
 - Damn Vulnerable DeFi - https://www.damnvulnerabledefi.xyz/ 
 - DApp World - https://dapp-world.com/ 
 - Etherhack - https://etherhack.positive.com/ 
+- Node Guardians - https://nodeguardians.io 
 - Speedrun Ethereum - https://speedrunethereum.com/ 
 - The Ethernaut - https://ethernaut.openzeppelin.com/ 
 - VyperFun - https://learn.vyperlang.org/ 
@@ -235,14 +236,17 @@ Listen to some of the best minds in the space. This list contains several podcas
 - dev3 - https://ivy.fm/podcast/dev3-1062011 
 - Devs Do Something - https://www.devsdosomething.fm/ 
 - Epicenter - https://epicenter.tv/ 
+- Green Pill - https://pod.link/1609313639 
 - Hashing it Out - https://www.youtube.com/channel/UCAI6Gk0R_1aGa76ShKFA78Q/videos 
 - Into the Bytecode - https://bytecode.substack.com/archive 
 - On The Other Side - https://www.othersidepod.xyz/ 
 - Protocol Explorer - https://www.youtube.com/@rahatcodes/streams 
+- Scraping Bits - https://www.scrapingbits.com/ 
 - Shadowy Super Coders - https://www.youtube.com/playlist?list=PLSMvK3DkHvw-QOR6Fk1AFSsH11xD5nA2X 
 - SIGNAL - https://signal-by-consensys.simplecast.com/ 
 - Solidity Galaxy Brain - https://www.soliditygalaxybrain.com/ 
 - The DeFi Scoop - https://linktr.ee/thedefiscoop 
+- The Rollup - https://www.youtube.com/channel/UCC2UPtfjtdAgofzuxUPZJ6g 
 - Vitalik Buterin on the Tim Ferris podcast - https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant/ 
 - Web3 with Sam KAmani - https://web3pod.xyz 
 - Web3 Galaxy Brain 🌌🧠 - https://web3galaxybrain.com 
@@ -504,6 +508,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Uniswap v2 Code walk-through - https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/ 
 - Unit testing in Starknet - https://perama-v.github.io/cairo/examples/unit_test/ 
 - Voting system in Cairo - https://www.cairo-lang.org/docs/hello_cairo/voting.html 
+- web3.py Patterns: WebSocketProvider - https://snakecharmers.ethereum.org/websocketprovider/ 
 - What happens when you send 1 DAI - https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai 
 - Why Sign-In with Ethereum is a Game-Changer - https://blog.spruceid.com/sign-in-with-ethereum-is-a-game-changer-part-1/ 
 - Writing DAPPs with Flutter + Solidity - https://itnext.io/writing-dapps-with-flutter-solidity-27d0621fd01 
@@ -628,7 +633,6 @@ These websites all contain a huge amount of information on anything related to W
 - Gitcoin - https://gitcoin.co/ 
 - Kiwi News - https://news.kiwistand.com/ 
 - lil web3 - https://github.com/m1guelpf/lil-web3 
-- Node Guardians - https://nodeguardians.io 
 - (Not So) Smart Contracts - https://github.com/crytic/not-so-smart-contracts/ 
 - OpenZeppelin Solidity Wizard - https://wizard.openzeppelin.com/ 
 - Smart Contract Best Practices - https://consensys.github.io/smart-contract-best-practices/ 
