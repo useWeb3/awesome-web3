@@ -28,7 +28,7 @@ Books are still one most popular ways to acquire new knowledge. These books will
 - Coding Democracy - https://amzn.to/3CkYQIv 
 - Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations - https://amzn.to/3zDnDEW 
 - Ethereum for Web Developers - https://amzn.to/2YbZVBG 
-- Build the EVM from scratch - evm-from-scratch.xyz 
+- Build the EVM from scratch - https://evm-from-scratch.xyz 
 - Foundations of Distributed Consensus and Blockchains - https://www.distributedconsensus.net/ 
 - Foundry Book - https://book.getfoundry.sh/ 
 - Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment - https://amzn.to/3Fai5Tq 
@@ -147,7 +147,6 @@ All the courses listed have been taken or highly recommended by others. They're 
 ## Learn & Earn 💸 
 There are a lot of projects that allow you to earn something while you learn. Whether that’s reputation, XP, tokens or money. It's a great way to get compensated for your time, while finding your way into the ecosystem.
 
-- 101.xyz - https://101.xyz/home 
 - Coinbase - https://www.coinbase.com/earn 
 - Dacade - https://dacade.org/ 
 - Dework - https://app.dework.xyz/ 
