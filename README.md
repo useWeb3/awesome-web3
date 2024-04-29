@@ -391,6 +391,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Demystifying Zero-Knowledge Proofs: A Practical Guide with Illustrative Examples - https://www.buildbear.io/resources/guides-and-tutorials/Zero_Knowledge_Proofs 
 - Deploy a contract with Brownie - https://www.quicknode.com/guides/web3-sdks/how-to-deploy-a-smart-contract-with-brownie 
 - Deploy a Smart Contract on Polygon using GetBlock - https://getblock.medium.com/deploy-a-smart-contract-on-polygon-using-getblock-145c0fc7733 
+- Deterministic Deployment Proxy - https://github.com/Arachnid/deterministic-deployment-proxy 
 - Develop EVM assembly opcode logic for Fibonacci - https://medium.com/coinmonks/develop-evm-assembly-opcode-logic-for-fibonacci-107f92dbc9d1 
 - Dissecting EVM using go-ethereum - Part 1 - https://medium.com/@deliriusz/dissecting-evm-using-go-ethereum-eth-client-implementation-part-i-transaction-execution-flow-960a1533e994 
 - Dissecting EVM using go-ethereum - Part 2 - https://medium.com/@deliriusz/dissecting-evm-using-go-ethereum-eth-client-implementation-part-ii-evm-ce7653f31c6f 
@@ -507,6 +508,8 @@ A curated list of free, community tutorials that are based around specific proje
 - Uniswap v2 Code walk-through - https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/ 
 - Unit testing in Starknet - https://perama-v.github.io/cairo/examples/unit_test/ 
 - Voting system in Cairo - https://www.cairo-lang.org/docs/hello_cairo/voting.html 
+- Vyper Permit2 Tutorial - https://banteg.xyz/posts/vyper-permit2/ 
+- web3.py Patterns: Bloom Filters - https://snakecharmers.ethereum.org/bloom-filters/ 
 - web3.py Patterns: WebSocketProvider - https://snakecharmers.ethereum.org/websocketprovider/ 
 - What happens when you send 1 DAI - https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai 
 - Why Sign-In with Ethereum is a Game-Changer - https://blog.spruceid.com/sign-in-with-ethereum-is-a-game-changer-part-1/ 
