@@ -374,7 +374,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Beginner's Guide to Yul - https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef 
 - Blockchain Development Resources - https://blockchain-development-resources.netlify.app/ 
 - Polygon: Bridging ERC-20 from Ethereum to Polygon - https://docs.chainstack.com/docs/polygon-tutorial-bridging-erc20-from-ethereum-to-polygon 
-- Build Your Own Decentralized Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Find_out_what_is_SBT_Auth_and_learn_to_create_your_own_system 
+- Build Your Own Decentralized Lending Protocol - https://medium.com/buildbear/build-your-own-decentralized-lending-protocol-8453c3e4196c 
 - Building in Public an Open Source Solana Wallet Cross-Platform App with Expo, Web3 and React Native - https://moviendo.me/building-in-public-an-open-source-solana-wallet-cross-platform-app-with-expo-web3-react-native/index.html 
 - Circom language tutorial with circomlib walkthrough - https://www.rareskills.io/post/circom-tutorial 
 - Clean Contracts - https://www.wslyvh.com/clean-contracts/ 
