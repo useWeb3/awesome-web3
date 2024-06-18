@@ -305,7 +305,6 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 ## Tutorials 💻 
 A curated list of free, community tutorials that are based around specific projects, tasks or challenges. They include step-by-step written instructions, screenshots and code examples to help you practice and master new skills.
 
-- 3A DAO Chosen BuildBear Sandbox for Beta Testing their Lending Protocol - https://www.buildbear.io/resources/guides-and-tutorials/3A_DAO 
 - A Deep Dive into ERC-404 Token Standard and Crafting your Custom Token - https://www.buildbear.io/resources/guides-and-tutorials/erc404 
 - ACTE: Revolutionizing Testing in the Digital Age - https://www.buildbear.io/blogs/acte 
 - A Comprehensive Guide to ERC-6672: Multi-Redeemable NFTs - https://www.buildbear.io/blogs/erc6672 
@@ -397,6 +396,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Dissecting EVM using go-ethereum - Part 2 - https://medium.com/@deliriusz/dissecting-evm-using-go-ethereum-eth-client-implementation-part-ii-evm-ce7653f31c6f 
 - Dissecting EVM using go-ethereum - Part 3 - https://medium.com/@deliriusz/dissecting-evm-using-go-ethereum-eth-client-implementation-part-iii-bytecode-interpreter-8f144004ed7a 
 - EIP-2535 Diamond standard - https://soliditydeveloper.com/eip-2535 
+- ERC-7201 Storage Namespaces Explained - https://www.rareskills.io/post/erc-7201 
 - ERC20 token standard - https://ethereumdev.io/understand-the-erc20-token-smart-contract/ 
 - ERC20 Weirdness & Attacks Part 1 - https://33audits.hashnode.dev/erc20-weirdness-attacks-part-1 
 - Ethereum Dev Speed Run - https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c 
@@ -408,6 +408,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Explore Ethereum Data with Dune Analytics - https://ethereumdev.io/explore-ethereum-data-with-sql-queries-on-dune-analytics/ 
 - Fetch data from Ethereum with SWR - https://consensys.net/blog/developers/how-to-fetch-and-update-data-from-ethereum-with-react-and-swr/ 
 - Flavours of On-Chain SVG NFTs - https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum 
+- Forking Ethereum Mainnet - https://medium.com/coinmonks/forking-ethereum-mainnet-a-comprehensive-guide-for-testing-with-hardhat-c78452bf71cb 
 - Formal Verification & Symbolic Execution | The Security Silver Bullet? - https://patrickalphac.medium.com/formal-verification-symbolic-execution-the-security-silver-bullet-38e0ac9072eb 
 - Formally Verifying The World’s Most Popular Smart Contract - https://www.zellic.io/blog/formal-verification-weth 
 - Full Stack Web3 — Everything You Need to Know - https://www.youtube.com/watch?v=pdsYCkUWrgQ 
@@ -513,6 +514,7 @@ A curated list of free, community tutorials that are based around specific proje
 - web3.py Patterns: WebSocketProvider - https://snakecharmers.ethereum.org/websocketprovider/ 
 - What happens when you send 1 DAI - https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai 
 - Why Sign-In with Ethereum is a Game-Changer - https://blog.spruceid.com/sign-in-with-ethereum-is-a-game-changer-part-1/ 
+- How to write your own Solidity linter using Slang - https://www.rareskills.io/post/erc-7201 
 - Writing DAPPs with Flutter + Solidity - https://itnext.io/writing-dapps-with-flutter-solidity-27d0621fd01 
 - Building Your First Uniswap Integration - https://uniswap.org/blog/your-first-uniswap-integration 
 - Zero-Knowledge Proofs in Plain English - https://mirror.xyz/edatweets.eth/oKKkqrfaeyxOZoPpggC9VUUCZYW3z8QfWPu9u5T5m50 
