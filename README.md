@@ -633,6 +633,7 @@ These websites all contain a huge amount of information on anything related to W
 - EthFiddle - https://ethfiddle.com/ 
 - EVM Codes - https://www.evm.codes/ 
 - The EVM Handbook - https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d 
+- EVM Tools - https://evmtools.xyz/ 
 - Free Web3 resources - https://www.freeweb3resources.com/ 
 - Gitcoin - https://gitcoin.co/ 
 - Kiwi News - https://news.kiwistand.com/ 
