@@ -514,7 +514,7 @@ A curated list of free, community tutorials that are based around specific proje
 - web3.py Patterns: WebSocketProvider - https://snakecharmers.ethereum.org/websocketprovider/ 
 - What happens when you send 1 DAI - https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai 
 - Why Sign-In with Ethereum is a Game-Changer - https://blog.spruceid.com/sign-in-with-ethereum-is-a-game-changer-part-1/ 
-- How to write your own Solidity linter using Slang - https://www.rareskills.io/post/erc-7201 
+- How to write your own Solidity linter using Slang - https://blog.nomic.foundation/how-to-write-your-own-solidity-linter-using-slang-356e7565ad1b 
 - Writing DAPPs with Flutter + Solidity - https://itnext.io/writing-dapps-with-flutter-solidity-27d0621fd01 
 - Building Your First Uniswap Integration - https://uniswap.org/blog/your-first-uniswap-integration 
 - Zero-Knowledge Proofs in Plain English - https://mirror.xyz/edatweets.eth/oKKkqrfaeyxOZoPpggC9VUUCZYW3z8QfWPu9u5T5m50 
