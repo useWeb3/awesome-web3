@@ -430,7 +430,7 @@ A curated list of free, community tutorials that are based around specific proje
 - How to Build a Multi-Chain NFT Marketplace on Ethereum, Polygon and Binance Smart Chain using Solidity, React, Hardhat and Ethers.js - https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-on-ethereum-polygon-and-binance-smart-chain-using-solidity-react-hardhat-and-ethersjs 
 - How to Build a Wallet Generator for Solana in React - https://www.quicknode.com/guides/web3-sdks/how-to-build-a-wallet-generator-for-solana-in-react 
 - Building a web3 dapp using Zero-knowledge (Snarks) Boilerplate - https://hackernoon.com/how-to-use-a-zero-knowledge-dapp-boilerplate 
-- Build a Full-Stack Interchain Application With Next.js, Solidity & Axelar - https://axelar.network/blog/how-to-build-interchain-dapp-with-next.js-solidity-and-Axelar 
+- Build a Full-Stack Interchain Application With Next.js, Solidity & Axelar - https://www.axelar.network/blog/how-to-build-interchain-dapp-with-next-js-solidity-and-axelar 
 - How To Create a ZK Smart Contract - https://betterprogramming.pub/how-to-create-a-zk-smart-contract-cd948a673749 
 - How to Deploy an Application With the Same Address Cross-Chain - https://axelar.network/blog/same-address-cross-chain-tutorial 
 - How to PoC your Bug Leads - https://medium.com/immunefi/how-to-poc-your-bug-leads-5ec76abdc1d8 
