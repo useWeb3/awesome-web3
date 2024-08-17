@@ -625,6 +625,7 @@ These websites all contain a huge amount of information on anything related to W
 - devpill.me - https://www.devpill.me/ 
 - Dissecting DeFi Protocols - https://0xkowloon.substack.com/ 
 - ETH.Build - https://eth.build/ 
+- ETH Gas Tracker - https://www.ethgastracker.com/ 
 - Ethereum Cat Herders - https://www.ethereumcatherders.com/ 
 - Ethereum Developer Tools List - https://github.com/ConsenSys/ethereum-developer-tools-list 
 - Ethereum Ecosystem - https://www.ethereum-ecosystem.com 
