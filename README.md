@@ -101,6 +101,7 @@ All the courses listed have been taken or highly recommended by others. They're 
 - DApp World - https://dapp-world.com/ 
 - De University of Ethereum - https://ueth.org/ 
 - DeFi MOOC - https://defi-learning.org/ 
+- DeSchool - https://coda.io/d/DeSchool_dRavbDJfPhH/Welcome-to-DeSchool_suxNc#_luYgM 
 - Developer Bootcamp with Solidity (2021) - https://www.udemy.com/course/blockchain-developer/ 
 - Developing Applications on Ethereum Blockchain - https://www.pluralsight.com/courses/blockchain-ethereum-developing-applications 
 - Developer DAO academy - https://academy.developerdao.com/getting-started 
@@ -120,6 +121,7 @@ All the courses listed have been taken or highly recommended by others. They're 
 - Kerala Blockchain Academy - https://elearning.kba.ai/ 
 - Kernel - https://www.kernel.community/en/ 
 - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course - https://www.youtube.com/watch?v=gyMwXuJrbJQQ 
+- Learncrypto - https://learncrypto.com/ 
 - Learn Solidity - https://www.alchemy.com/university/courses/solidity 
 - Learn to Earn - Data program - https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ 
 - LearnWeb3 DAO - https://www.learnweb3.io 
@@ -152,6 +154,7 @@ There are a lot of projects that allow you to earn something while you learn. Wh
 - Dework - https://app.dework.xyz/ 
 - Gitcoin - https://gitcoin.co/explorer 
 - Layer3 - https://beta.layer3.xyz/bounties 
+- Metagame Academy - https://metagame.wtf/academy 
 - Overmind - https://overmind.xyz/?utm_source=useWeb3_Earn 
 - RabbitHole - https://app.rabbithole.gg/ 
 
@@ -217,7 +220,7 @@ These documentaries help provide a better understanding of blockchain technology
 
 - Banking on Bitcoin - https://www.imdb.com/title/tt5033790/ 
 - Cryptopia - https://www.imdb.com/title/tt9203586/ 
-- Ethereum: The Infinite Garden - https://optimist.co/films/ethereum-the-infinite-garden/ 
+- Vitalik: An Ethereum Story - https://ethereumfilm.xyz/ 
 - Hopium Diaries - https://youtu.be/v1Z5BnBuFyE 
 - Inside the Dark Web - https://topdocumentaryfilms.com/inside-dark-web/ 
 - RUIN: Money, Ego and Deception at FTX - https://www.bloomberg.com/features/2023-ruin-ftx-documentary/ 
@@ -624,6 +627,7 @@ These websites all contain a huge amount of information on anything related to W
 - DeFi Developer roadmap - https://github.com/OffcierCia/DeFi-Developer-Road-Map 
 - devpill.me - https://www.devpill.me/ 
 - Dissecting DeFi Protocols - https://0xkowloon.substack.com/ 
+- EIP.fun - https://eip.fun/ 
 - ETH.Build - https://eth.build/ 
 - ETH Gas Tracker - https://www.ethgastracker.com/ 
 - Ethereum Cat Herders - https://www.ethereumcatherders.com/ 
@@ -637,6 +641,7 @@ These websites all contain a huge amount of information on anything related to W
 - EVM Tools - https://evmtools.xyz/ 
 - Free Web3 resources - https://www.freeweb3resources.com/ 
 - Gitcoin - https://gitcoin.co/ 
+- Growthepie - https://www.growthepie.xyz/ 
 - Kiwi News - https://news.kiwistand.com/ 
 - lil web3 - https://github.com/m1guelpf/lil-web3 
 - (Not So) Smart Contracts - https://github.com/crytic/not-so-smart-contracts/ 
