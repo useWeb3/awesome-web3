@@ -608,6 +608,7 @@ These videos provide you with an amazing opportunity to learn from some of the b
 ## Websites 🌐 
 These websites all contain a huge amount of information on anything related to Web3, blockchain and Ethereum development. From Solidity examples to guides on smart contract design patterns, best practices and complete developer roadmaps.
 
+- 2077 Research - https://research.2077.xyz 
 - BuildBear - https://www.buildbear.io/ 
 - Faucets for Public Testnets - https://www.buildbear.io/faucet 
 - A quick reference for EVM opcodes - https://github.com/wolflo/evm-opcodes 
