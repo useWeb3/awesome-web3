@@ -270,6 +270,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - Create Web3 Dapp - https://createweb3dapp.alchemy.com/ 
 - dApp Starter - https://github.com/m1guelpf/dapp-starter 
 - Dapp Boilerplate - https://github.com/JalelTounsi/DappBoilerplate 
+- dAppBooster - https://github.com/BootNodeDev/dAppBooster 
 - dapptools-starter-kit - https://github.com/smartcontractkit/dapptools-starter-kit 
 - ETHathon Full-Stack DApp Boilerplate - https://github.com/ethathon/ethathon 
 - Fullstack monorepo template - https://github.com/G3root/nextjs-dapp-starter-ts 
