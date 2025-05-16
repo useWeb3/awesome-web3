@@ -28,7 +28,7 @@ Books are still one most popular ways to acquire new knowledge. These books will
 - Coding Democracy - https://amzn.to/3CkYQIv 
 - Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations - https://amzn.to/3zDnDEW 
 - Ethereum for Web Developers - https://amzn.to/2YbZVBG 
-- Build the EVM from scratch - https://evm-from-scratch.xyz 
+- Build the EVM from scratch - https://www.evm-from-scratch.app/ 
 - Foundations of Distributed Consensus and Blockchains - https://www.distributedconsensus.net/ 
 - Foundry Book - https://book.getfoundry.sh/ 
 - Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment - https://amzn.to/3Fai5Tq 
@@ -78,13 +78,11 @@ All the courses listed have been taken or highly recommended by others. They're 
 
 - _buildspace - https://buildspace.so/ 
 - Cyfrin Updraft - https://updraft.cyfrin.io/ 
-- 30 Days of Web3 - https://www.30daysofweb3.xyz/ 
-- Rust-and-Solana-development-for-beginners-ICB - https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners 
 - a16z Crypto Startup School - https://a16z.com/crypto-startup-school/ 
 - Alchemy University - https://university.alchemy.com/ 
 - Bankless Academy - https://app.banklessacademy.com/ 
 - Base Bootcamp - https://base.org/bootcamp 
-- Base Camp - https://docs.base.org/base-camp/docs/welcome 
+- Base Camp - https://docs.base.org/ 
 - Become an Ethereum Blockchain Developer - https://ethereum-blockchain-developer.com/ 
 - Bitcoin and Cryptocurrency Technologies - https://www.coursera.org/learn/cryptocurrency 
 - Blockchain and Money - https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/ 
@@ -104,42 +102,33 @@ All the courses listed have been taken or highly recommended by others. They're 
 - DeSchool - https://coda.io/d/DeSchool_dRavbDJfPhH/Welcome-to-DeSchool_suxNc#_luYgM 
 - Developer Bootcamp with Solidity (2021) - https://www.udemy.com/course/blockchain-developer/ 
 - Developing Applications on Ethereum Blockchain - https://www.pluralsight.com/courses/blockchain-ethereum-developing-applications 
-- Developer DAO academy - https://academy.developerdao.com/getting-started 
+- Developer DAO academy - https://academy.developerdao.com/ 
 - Distributed Systems course - http://www.distributedsystemscourse.com/ 
 - Encode Club Bootcamps - https://www.encode.club/encode-bootcamps 
-- Figment Learn - https://learn.figment.io/ 
 - Get started with blockchain development - https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/ 
-- Global Blockchain Initiative - https://blockchaininitiative.org/ 
 - Harvard CS50 - https://www.youtube.com/watch?v=8mAITcNt710 
 - How Proof of Stake Ethereum Works - https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works 
 - Human DAO Academy - https://academy.humandao.org/ 
 - Enterprise Blockchain Technologies - https://github.com/hyperledger-labs/university-course 
 - Introduction to Ethers.js - https://www.chainshot.com/learn/ethers 
-- Introduction to Smart Contracts - https://www.defi-academy.com/courses/introduction-to-smart-contracts 
-- Introduction to Tokens in Ethereum - https://www.defi-academy.com/courses/introduction-to-tokens 
 - IPFS Course - https://proto.school/course/ipfs 
 - Kerala Blockchain Academy - https://elearning.kba.ai/ 
-- Kernel - https://www.kernel.community/en/ 
+- Kernel - https://www.kernel.community/ 
 - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course - https://www.youtube.com/watch?v=gyMwXuJrbJQQ 
 - Learncrypto - https://learncrypto.com/ 
 - Learn Solidity - https://www.alchemy.com/university/courses/solidity 
 - Learn to Earn - Data program - https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ 
 - LearnWeb3 DAO - https://www.learnweb3.io 
-- Macro – Teach Yourself Web3 - https://www.teachyourselfweb3.com/courses/teach-yourself-web3 
 - Mastering Blockchain and Distributed Ledger Technologies - https://erasmusmoocs.thinkific.com/courses/chaise 
 - MetaMask Learn - https://learn.metamask.io/ 
 - metaschool - https://metaschool.so/ 
-- NFT School - https://nftschool.dev/ 
 - NFTs and the Metaverse - https://www.unic.ac.cy/openmetaverse/mooc-nfts-metaverse/ 
 - Node Guardians - https://nodeguardians.io 
 - Odyssey DAO - https://www.odysseydao.com/ 
 - ProtoSchool - https://proto.school/tutorials 
-- Questbook - https://learn.questbook.xyz/ 
 - solidity-school - https://github.com/Aniket-Engg/solidity-school 
-- Teach Yourself Web3 - https://www.teachyourselfweb3.com/ 
 - Third Academy - https://www.third.academy/ 
 - Token Engineering Academy - https://tokenengineering.net/ 
-- Unit Masters - https://www.unitmasters.org/ 
 - useWeb3 Academy - https://academy.useweb3.xyz/ 
 - Web3 university - https://www.web3.university/ 
 - ZK Hack - https://zkhack.dev/ 
@@ -167,8 +156,7 @@ These grant and ecosystem support programs can help you build your own projects,
 - Balancer Grants - https://balancer.community/balancer-community-grants 
 - Bepro Infrastructure Grant - https://layerxlabs.notion.site/Introducing-the-Bepro-Network-Infrastructure-Grant-39e096cdabe34120b95acc0ac3ac6b31 
 - Chainlink Grants - https://chain.link/community/grants 
-- Compound Grants - https://compoundgrants.org/ 
-- Connext Ecosystem Grants - https://grants.connext.network/ 
+- Compound Grants - https://questbook.notion.site/CGP-2-0-32b4ea7171f94c25b9161d91bcad3b20 
 - Decentraland DAO Grants - https://governance.decentraland.org/grants/ 
 - EPNS Grants - https://epns.notion.site/Push-Grants-Program-8c9f7934f7e5418faf96e7a5bdcaac4a 
 - Ecosystem Support Program - https://esp.ethereum.foundation/ 
@@ -177,20 +165,17 @@ These grant and ecosystem support programs can help you build your own projects,
 - Lens Protocol Grants - https://aave.notion.site/Grants-Application-eec79f59fbad4e34b51acc3c936073a2 
 - Lit Protocol Grants - https://github.com/LIT-Protocol/LitGrants 
 - Livepeer Grants - https://github.com/livepeer/Grant-Program 
-- Meta Gamma Delta - https://metagammadelta.com/grants/ 
 - Metacartel Grants - https://www.metacartel.org/grants/ 
 - Metamask Grants DAO - https://metamaskgrants.org/ 
 - Moonbeam Grant Program - https://moonbeam.foundation/grants/ 
-- PoolTogether Grants - https://poolgrants.org/ 
 - Radicle Grants - https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU 
 - Road to Devcon Grants - https://esp.ethereum.foundation/devcon-grants 
 - SKALE Grants Program - https://skale.space/developers#grants 
 - Streamr Data Fund - https://streamr.network/fund/ 
-- Swarm Grants - https://my.ethswarm.org/grants 
+- Swarm Grants - https://ethswarm.org/grants 
 - Synthetix Grants Council - https://grants.synthetix.io/ 
 - The Graph Grants - https://thegraph.foundation/ 
-- UMA Grants for Developer Support - https://grants.umaproject.org 
-- UNI Grants - https://www.unigrants.org/ 
+- UNI Grants - https://www.uniswapfoundation.org/grants 
 - Unmarshal Grants Program - https://unmarshal.io/grants/ 
 - VitaDAO - https://www.vitadao.com/ 
 - ZetaChain Grants - https://www.zetachain.com/grants 
@@ -207,7 +192,7 @@ These guides provide a more structured approach to learning.
 - Clean Contracts - a guide on smart contract patterns & practices - https://www.useweb3.xyz/guides/clean-contracts 
 - Crypto glossary – important terms to navigate web3 - https://www.useweb3.xyz/guides/crypto-glossary 
 - DeFi Risk Tools & Resources - https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools 
-- Intro to DeFi – How to navigate the Degen world - https://www.useweb3.xyz/guides/defi-intro 
+- Intro to DeFi – How to navigate the Degen world - https://www.useweb3.xyz/guides/intro-to-defi 
 - Learn Solidity - https://www.freecodecamp.org/news/learn-solidity-handbook/ 
 - Road to ZK - https://plum-lightning-36c.notion.site/Road-to-ZK-2e85993b316b4c7c831bcdc866005e1b 
 - 4 ways to reduce⛽️Gas Fee paid to Ethereum blockchain. - https://mirror.xyz/iamchandan.eth/vuslsqt95p1vlNdy5WeKBFq0PUctybycdfchFmkySos 
@@ -221,7 +206,7 @@ These documentaries help provide a better understanding of blockchain technology
 - Banking on Bitcoin - https://www.imdb.com/title/tt5033790/ 
 - Cryptopia - https://www.imdb.com/title/tt9203586/ 
 - Vitalik: An Ethereum Story - https://ethereumfilm.xyz/ 
-- Hopium Diaries - https://youtu.be/v1Z5BnBuFyE 
+- Hopium Diaries - https://youtu.be/gxFNMiLZhP8 
 - Inside the Dark Web - https://topdocumentaryfilms.com/inside-dark-web/ 
 - RUIN: Money, Ego and Deception at FTX - https://www.bloomberg.com/features/2023-ruin-ftx-documentary/ 
 - The Blockchain Life - https://www.primevideo.com/detail/The-Blockchain-Life/0JR3TIK7N4S3XI67AOQ9VJNS5I/ 
@@ -246,7 +231,6 @@ Listen to some of the best minds in the space. This list contains several podcas
 - Scraping Bits - https://www.scrapingbits.com/ 
 - Shadowy Super Coders - https://www.youtube.com/playlist?list=PLSMvK3DkHvw-QOR6Fk1AFSsH11xD5nA2X 
 - SIGNAL - https://signal-by-consensys.simplecast.com/ 
-- Solidity Galaxy Brain - https://www.soliditygalaxybrain.com/ 
 - The DeFi Scoop - https://linktr.ee/thedefiscoop 
 - The Rollup - https://www.youtube.com/channel/UCC2UPtfjtdAgofzuxUPZJ6g 
 - Vitalik Buterin on the Tim Ferris podcast - https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant/ 
@@ -296,8 +280,6 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - Solidity template - https://github.com/paulrberg/solidity-template 
 - Starknet Hardhat example - https://github.com/Shard-Labs/starknet-hardhat-example 
 - Starknet React example - https://github.com/fracek/starknet-react-example 
-- Sveltekit EVM Bootstrap - https://github.com/chiuzon/sveltekit-evm-bootstrap 
-- SvelteKit  Web3 Hackaton Starter - https://github.com/chiuzon/sveltekit-web3-hackaton-starter 
 - Template Ethereum contracts - https://github.com/wighawag/template-ethereum-contracts 
 - TurboETH - https://www.turboeth.xyz/ 
 - Typescript Solidity Dev Starter Kit - https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit 
@@ -310,56 +292,17 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 A curated list of free, community tutorials that are based around specific projects, tasks or challenges. They include step-by-step written instructions, screenshots and code examples to help you practice and master new skills.
 
 - A Deep Dive into ERC-404 Token Standard and Crafting your Custom Token - https://www.buildbear.io/resources/guides-and-tutorials/erc404 
-- ACTE: Revolutionizing Testing in the Digital Age - https://www.buildbear.io/blogs/acte 
-- A Comprehensive Guide to ERC-6672: Multi-Redeemable NFTs - https://www.buildbear.io/blogs/erc6672 
-- A Hands-On Guide to Modular Smart Contracts with Diamond Standard (EIP2535) - https://www.buildbear.io/resources/guides-and-tutorials/erc2535 
-- A Practical Guide on Honeypot Attacks in Smart Contracts - https://www.buildbear.io/resources/guides-and-tutorials/honeypots 
-- All You Need to Know about Ethereum Dencun Upgrade - https://www.buildbear.io/blogs/dencun_mainnet 
-- Automate Contract Deployment with Hardhat Ignition  - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_Ignition 
 - Build Your Own Decentralized Lending Protocol - https://medium.com/buildbear/build-your-own-decentralized-lending-protocol-8453c3e4196c 
 - Build your own Decentralized Exchange - https://medium.com/buildbear/build-your-own-decentralized-exchange-4ccabd519d26 
 - Building a Decentralized NFT Marketplace with Solidity and Hardhat: A Step-by-Step Tutorial - https://medium.com/buildbear/building-a-decentralized-nft-marketplace-with-solidity-and-hardhat-a-step-by-step-tutorial-cef7af808b93 
 - Build a Voting Smart Contract  - https://medium.com/buildbear/a-step-by-step-guide-to-building-and-deploying-a-voting-smart-contract-on-the-blockchain-468665034c9e 
 - NFT Lottery DApp - https://medium.com/buildbear/building-an-nft-lottery-step-by-step-guide-for-creating-a-smart-contract-and-frontend-82d453833e1f 
-- Create Rentable NFTs Using ERC-4907 Standard - https://www.buildbear.io/resources/guides-and-tutorials/Rentable_NFTs 
-- Create Customized Private Omni Testnets - https://www.buildbear.io/resources/guides-and-tutorials/omniNetwork 
-- Creating Royalty NFTs using ERC-2981: A Step-by-Step Guide - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_NFT 
-- Deploy Your Own Royalty Splitter Contract with BuildBear’s No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/Royalty_Splitter_Contract 
-- Deploy Your Own Azuki ERC721A NFT with BuildBear's No-Code Deployment - https://www.buildbear.io/resources/guides-and-tutorials/ERC721A_NFT 
-- Elevate Protocol Development & Testing with Catapulta and BuildBear Sandbox Integration - https://www.buildbear.io/resources/guides-and-tutorials/catapulta_buildbear 
-- Enhance Your Smart Contract Development with the Integration of LokiCode and BuildBear Sandbox. - https://www.buildbear.io/resources/guides-and-tutorials/loki_Code 
-- Enhance Your Web3 Development with These Essential Tools - https://www.buildbear.io/resources/guides-and-tutorials/web3_dev_tools 
 - Euler Finance’s 196 Million Flash Loan Exploit - https://medium.com/buildbear/a-comprehensive-analysis-of-euler-finances-196-million-flash-loan-exploit-and-a-step-by-step-guide-691a31f26452 
-- Guide to Becoming a Web3 Developer in 2024 - https://www.buildbear.io/blogs/Guide_to_Becoming_a_Web3_Developer 
-- Implementing NFT Royalties A Practical Tutorial on ERC721-C  - https://www.buildbear.io/resources/guides-and-tutorials/ERC721C 
-- In-Depth Guide on ERC-4626 Tokenized Vaults - https://www.buildbear.io/resources/guides-and-tutorials/ERC4626 
-- In-Depth Technical QA Dive into UniLendV2 || Reporting a Front-End Bug - https://www.buildbear.io/resources/guides-and-tutorials/Unilendv2_QA 
-- Inscription Spam Disrupting Developer Experiences on Public Testnets - https://www.buildbear.io/blogs/Inscription_Spam 
-- Integrating Uniswap V4 into Your Smart Contracts: A Step-by-Step Guide - https://www.buildbear.io/resources/guides-and-tutorials/uniswapv4 
-- Introducing Scaffold-ETH-2 with the power of Mainnet Forks - https://www.buildbear.io/resources/guides-and-tutorials/Scaffold_ETH_2 
-- Introducing BuildBear Remix Plugin: Enhanced Smart Contract Development on Remix IDE - https://www.buildbear.io/resources/guides-and-tutorials/remix_plugin 
-- Introducing the BuildBear VSCode Extension: Enhanced Smart Contract Development on VSCode IDE - https://www.buildbear.io/resources/guides-and-tutorials/vscode_extension 
-- Learn How to integrate UniswapV3 into your smart contracts. - https://www.buildbear.io/resources/guides-and-tutorials/uniswapv3 
 - Learn and deploy an ERC 1155 smart contract - https://medium.com/buildbear/learn-and-deploy-an-erc-1155-smart-contract-most-used-by-web3-games-f67e6f291e16 
-- Learn how Stablecoins work and Create Your own Version Similar to USDC - https://www.buildbear.io/resources/guides-and-tutorials/StableCoin 
-- Learn How to Create Liquidity Pools on UniswapV3 for New ERC20 Tokens - https://www.buildbear.io/resources/guides-and-tutorials/LP_on_UniSwapv3 
-- Learn How to Perform a Sandwich Attack - https://www.buildbear.io/resources/guides-and-tutorials/Sandwich_Attack 
 - Mastering Smart Contract Testing: A Comprehensive Guide to Hardhat - https://medium.com/buildbear/mastering-smart-contract-testing-a-comprehensive-guide-to-hardhat-5806005c2352 
-- Meet Holesky: Ethereum’s Latest Testnet. Learn How to 10x Your Dapp Development - https://www.buildbear.io/resources/guides-and-tutorials/Holesky_testnet 
-- Most Common Vulnerabilities In Solidity: In-Depth Part 1 - https://www.buildbear.io/resources/guides-and-tutorials/Common_Vulnerabilities_part_1 
-- Most Common Vulnerabilities In Solidity: In-Depth Part 2 - https://www.buildbear.io/resources/guides-and-tutorials/Common_Vulnerabilities_part_2 
-- Must Have Smart Contract Auditing Tools for Auditors and Developers - https://www.buildbear.io/resources/guides-and-tutorials/Auditor_tools 
-- No-Code Smart Contract Development and Deployment to Your Private Testnet with Just 1 Click - https://www.buildbear.io/resources/guides-and-tutorials/1_click_deploy 
-- Optimize Your Dapp Development and Testing with Hardhat x BuildBear - https://www.buildbear.io/resources/guides-and-tutorials/Hardhat_BuildBear 
-- In Depth QA Testing Dyson Finance Protocol - https://www.buildbear.io/resources/guides-and-tutorials/Dyson_Finance 
 - Re-constructing the GDS Hack - https://medium.com/buildbear/re-constructing-the-gds-hack-things-that-you-should-actually-know-to-code-safe-protocols-d0824b1d5710 
 - Recreating Kubz NFT Hack - https://medium.com/buildbear/recreating-kubz-nft-contract-hack-8eef73ff0878 
-- Simplify and Optimize Protocol Deployments with Catapulta - https://www.buildbear.io/resources/guides-and-tutorials/catapulta 
-- Creating Token Bound Accounts(TBA) Using ERC-6551 - https://www.buildbear.io/resources/guides-and-tutorials/TokenBound_accounts 
-- Understanding the Mechanics of Aave V3 - https://www.buildbear.io/resources/guides-and-tutorials/Aave_V3 
-- Understanding Decentralized Identity with Smart Contract - https://www.buildbear.io/blogs/decentralized_identity 
 - Unveiling the Power of Spark Protocol: A Comprehensive Review - https://medium.com/buildbear/unveiling-the-power-of-spark-protocol-a-comprehensive-review-aacb6ad5af1a 
-- What Is the Ethereum Cancun-Deneb (Dencun) Update? - https://www.buildbear.io/blogs/Dencun_upgrade 
 - A Friendly Introduction to Zero Knowledge - https://zkintro.com/articles/friendly-introduction-to-zero-knowledge 
 - A guide for reusing test code to validate smart contract exploits - https://medium.com/immunefi/a-step-by-step-guide-for-reusing-development-test-code-to-validate-smart-contract-exploits-31ffb1afd044 
 - A Guide to Designing Effective NFT Launches - https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/ 
@@ -388,10 +331,8 @@ A curated list of free, community tutorials that are based around specific proje
 - Create an ERC20 token payment splitting smart contract - https://medium.com/coinmonks/create-an-erc20-token-payment-splitting-smart-contract-c79436470ccc 
 - Create your own NFT collection on Ethereum w/Solidity - https://eda.hashnode.dev/create-your-own-nft-collection-on-ethereum 
 - Creating a Wallet Application Using web3.js v4 and ReactJS - https://blog.chainsafe.io/creating-a-wallet-application-using-web3-js-v4-and-reactjs-497339c0b568 
-- Dapp UX guides - https://rimble.consensys.design/guides 
 - DappTools: Supercharge Your Smart Contracts - https://eattheblocks.com/dapptools-supercharge-your-smart-contracts/ 
 - Deep Dive Into Solidity Libraries - https://coinsbench.com/deep-dive-into-solidity-libraries-e9bd7f9061fb 
-- Demystifying Zero-Knowledge Proofs: A Practical Guide with Illustrative Examples - https://www.buildbear.io/resources/guides-and-tutorials/Zero_Knowledge_Proofs 
 - Deploy a contract with Brownie - https://www.quicknode.com/guides/web3-sdks/how-to-deploy-a-smart-contract-with-brownie 
 - Deploy a Smart Contract on Polygon using GetBlock - https://getblock.medium.com/deploy-a-smart-contract-on-polygon-using-getblock-145c0fc7733 
 - Deterministic Deployment Proxy - https://github.com/Arachnid/deterministic-deployment-proxy 
@@ -407,7 +348,6 @@ A curated list of free, community tutorials that are based around specific proje
 - Ethereum developer tools list - https://github.com/ConsenSys/ethereum-developer-tools-list 
 - Ethereum logs tutorial series: Logs and filters - https://docs.chainstack.com/docs/ethereum-logs-tutorial-series-logs-and-filters 
 - Ethereum private keys attacks - https://medium.com/@pierreia/quick-tour-on-ethereum-private-keys-attacks-3082846b7632 
-- Ethernaut x Foundry - https://blog.0xeval.me/ethernaut-x-foundry-0x0-hello-ethernaut 
 - Events & Logging in solidity - https://blog.chain.link/events-and-logging-in-solidity/ 
 - Explore Ethereum Data with Dune Analytics - https://ethereumdev.io/explore-ethereum-data-with-sql-queries-on-dune-analytics/ 
 - Fetch data from Ethereum with SWR - https://consensys.net/blog/developers/how-to-fetch-and-update-data-from-ethereum-with-react-and-swr/ 
@@ -418,7 +358,6 @@ A curated list of free, community tutorials that are based around specific proje
 - Full Stack Web3 — Everything You Need to Know - https://www.youtube.com/watch?v=pdsYCkUWrgQ 
 - Fuzz / Invariant Tests | The New Bare Minimum For Smart Contract Security - https://patrickalphac.medium.com/fuzz-invariant-tests-the-new-bare-minimum-for-smart-contract-security-87ebe150e88c 
 - Gas Optimizations for the Rest of Us - https://m1guelpf.blog/d0gBiaUn48Odg8G2rhs3xLIjaL8MfrWReFkjg8TmDoM 
-- Generate NFT with AI and Deploy the NFT smart contract, and the Front End App - https://www.buildbear.io/resources/guides-and-tutorials/Generate_NFT_with_AI_and_Deploy_the_NFT_smart_contract 
 - Get to know Ethereum Calldata - https://medium.com/laika-lab/get-to-know-ethereum-calldata-72f65e8bffef 
 - Geth vs Erigon: Deep dive into RPC methods on Ethereum clients - https://docs.chainstack.com/docs/geth-vs-erigon-deep-dive-into-rpc-methods-on-ethereum-clients 
 - Getting started with SSX - https://blog.developerdao.com/getting-started-with-ssx 
@@ -440,16 +379,12 @@ A curated list of free, community tutorials that are based around specific proje
 - How to PoC your Bug Leads - https://medium.com/immunefi/how-to-poc-your-bug-leads-5ec76abdc1d8 
 - How To Save 50% on Gas Costs - https://medium.com/goldfinch-fi/solidity-learnings-how-to-save-50-on-gas-costs-5e598c364ab2 
 - How to use Dapptools - https://medium.com/@patrick.collins_58673/how-to-use-dapptools-code-like-makerdao-fed9909d055b 
-- How to wrap your ethers contracts in svelte stores. - https://chiuzon.medium.com/how-to-wrap-your-ethers-contracts-in-svelte-stores-7ce81d6234b3 
 - Implementing Zero Knowledge Lottery’s Circom circuits - Part 1 - https://killari.medium.com/implementing-zero-knowledge-lotterys-circom-circuits-part-1-2-16910b3732a2 
 - Implementing Zero Knowledge Lottery’s Circom circuits - Part 2 - https://killari.medium.com/implementing-zero-knowledge-lotterys-circom-circuits-part-2-2-59a2f976cd24 
 - Indexing ERC-20 token balance using Subgraphs - https://docs.chainstack.com/docs/subgraphs-tutorial-indexing-erc-20-token-balance 
-- Integer Downcasting Vulnerability: Demonstration and Effective Fix - https://www.buildbear.io/resources/guides-and-tutorials/Downcasting_Vulnerability 
 - Introduction to Ethereum Rollups - https://www.quicknode.com/guides/infrastructure/introduction-to-ethereum-rollups 
 - An Introduction to Full Stack dapp Development - https://github.com/kmjones1979/full-stack-dapp-workshop 
-- Learn, code and deploy your own MultiSig Wallet and test it with your friends now - https://www.buildbear.io/resources/guides-and-tutorials/Learn,_code_and_deploy_your_own_MultiSig_Wallet_and_test_it_with_your_friends_now 
 - Learn Cryptography - https://www.tutorialspoint.com/cryptography/ 
-- Learn how to Code a Decentralised Hotel Booking System Smart Contract - https://www.buildbear.io/resources/guides-and-tutorials/Learn_how_to_Code_a_Decentralised_Hotel_Booking_System_Smart_Contract 
 - Learn how to code elliptic curve cryptography - https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab 
 - Learn Solidity: Events - https://betterprogramming.pub/learn-solidity-events-2801d6a99a92 
 - Learn Solidity: The Factory Pattern - https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29 
@@ -459,7 +394,6 @@ A curated list of free, community tutorials that are based around specific proje
 - Lessons from creating a Web3 app - https://camiinthisthang.hashnode.dev/wthisweb3 
 - Let’s play EVM Puzzles - https://stermi.medium.com/lets-play-evm-puzzles-learning-ethereum-evm-while-playing-43a8354a02b3 
 - A Low-Level Guide To Solidity's Storage Management - https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management 
-- Making DAPPs using SvelteWeb3 - https://chiuzon.medium.com/enjoy-making-dapps-using-svelteweb3-b78dfea1d902 
 - Mapping vs. Array in Solidity - https://www.devtwins.com/blog/understanding-mapping-vs-array-in-solidity 
 - Master Solidity - ERC20 - https://www.razacodes.com/blog/How-to-deploy-ERC20 
 - Master Solidity - Ether wallet - https://www.razacodes.com/blog/Solidity-Ether-Wallet 
@@ -483,8 +417,6 @@ A curated list of free, community tutorials that are based around specific proje
 - Reentrancy Guard 2.0 - https://medium.com/spherex-technologies/reentrancy-guard-2-0-cbbc0be41634 
 - You're writing require statements wrong - https://www.nascent.xyz/idea/youre-writing-require-statements-wrong 
 - Rock, Paper, Scissors in Solidity - https://medium.com/@websculpt/rock-paper-scissors-in-solidity-part-1-9d7c5d8a316e 
-- Set up a Solidity project - https://blog.oliverjumpertz.dev/how-to-set-up-a-solidity-project-and-create-your-first-smart-contract 
-- Sign-In with Ethereum - https://wagmi-xyz.vercel.app/guides/sign-in-with-ethereum 
 - Smart Contract Audit | Explained - https://www.cyfrin.io/blog/what-is-a-smart-contract-audit 
 - Smart Contract Obfuscation Techniques - https://degatchi.com/articles/smart-contract-obfuscation 
 - Smock 2 - https://soliditydeveloper.com/smock2 
@@ -611,7 +543,6 @@ These websites all contain a huge amount of information on anything related to W
 
 - 2077 Research - https://research.2077.xyz 
 - BuildBear - https://www.buildbear.io/ 
-- Faucets for Public Testnets - https://www.buildbear.io/faucet 
 - A quick reference for EVM opcodes - https://github.com/wolflo/evm-opcodes 
 - a16z crypto glossary - https://a16zcrypto.com/content/article/crypto-glossary/ 
 - Awesome cryptography - https://github.com/sobolevn/awesome-cryptography 
