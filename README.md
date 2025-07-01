@@ -63,7 +63,6 @@ These interactive game tutorials get you through the basics of web3 development 
 - CryptoZombies - https://cryptozombies.io/ 
 - Damn Vulnerable DeFi - https://www.damnvulnerabledefi.xyz/ 
 - DApp World - https://dapp-world.com/ 
-- Etherhack - https://etherhack.positive.com/ 
 - Node Guardians - https://nodeguardians.io 
 - Speedrun Ethereum - https://speedrunethereum.com/ 
 - The Ethernaut - https://ethernaut.openzeppelin.com/ 
@@ -76,8 +75,7 @@ Courses are a great way to learn about blockchain and web3 development. They off
 
 All the courses listed have been taken or highly recommended by others. They're either free or offer free introductory lessons, so you can try out their formats before considering to purchase.
 
-- _buildspace - https://buildspace.so/ 
-- Cyfrin Updraft - https://updraft.cyfrin.io/ 
+- Cyfrin Updraft - https://updraft.cyfrin.io/courses 
 - a16z Crypto Startup School - https://a16z.com/crypto-startup-school/ 
 - Alchemy University - https://university.alchemy.com/ 
 - Bankless Academy - https://app.banklessacademy.com/ 
@@ -87,7 +85,7 @@ All the courses listed have been taken or highly recommended by others. They're 
 - Bitcoin and Cryptocurrency Technologies - https://www.coursera.org/learn/cryptocurrency 
 - Blockchain and Money - https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/ 
 - Blockchain-based Systems Engineering - https://github.com/sebischair/bbse 
-- Blockchain @ Berkeley - https://blockchain.berkeley.edu/courses/ 
+- Blockchain @ Berkeley - https://blockchain.studentorg.berkeley.edu/education 
 - Blockchain Specialization - https://www.coursera.org/specializations/blockchain 
 - Build a NFT ticketing service" - https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c 
 - Cadena - https://www.cadena.dev/ 
@@ -104,15 +102,14 @@ All the courses listed have been taken or highly recommended by others. They're 
 - Developing Applications on Ethereum Blockchain - https://www.pluralsight.com/courses/blockchain-ethereum-developing-applications 
 - Developer DAO academy - https://academy.developerdao.com/ 
 - Distributed Systems course - http://www.distributedsystemscourse.com/ 
-- Encode Club Bootcamps - https://www.encode.club/encode-bootcamps 
-- Get started with blockchain development - https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/ 
+- Encode Club Bootcamps - https://bootcamps.encode.club/ 
 - Harvard CS50 - https://www.youtube.com/watch?v=8mAITcNt710 
 - How Proof of Stake Ethereum Works - https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works 
 - Human DAO Academy - https://academy.humandao.org/ 
 - Enterprise Blockchain Technologies - https://github.com/hyperledger-labs/university-course 
 - Introduction to Ethers.js - https://www.chainshot.com/learn/ethers 
 - IPFS Course - https://proto.school/course/ipfs 
-- Kerala Blockchain Academy - https://elearning.kba.ai/ 
+- Kerala Blockchain Academy - https://kba.ai/ 
 - Kernel - https://www.kernel.community/ 
 - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course - https://www.youtube.com/watch?v=gyMwXuJrbJQQ 
 - Learncrypto - https://learncrypto.com/ 
@@ -143,8 +140,6 @@ There are a lot of projects that allow you to earn something while you learn. Wh
 - Dework - https://app.dework.xyz/ 
 - Gitcoin - https://gitcoin.co/explorer 
 - Layer3 - https://beta.layer3.xyz/bounties 
-- Metagame Academy - https://metagame.wtf/academy 
-- Overmind - https://overmind.xyz/?utm_source=useWeb3_Earn 
 - RabbitHole - https://app.rabbithole.gg/ 
 
 
@@ -153,18 +148,16 @@ These grant and ecosystem support programs can help you build your own projects,
 
 - 1inch Foundation grant program - https://1inch.io/foundation-grant-program/ 
 - Aave Grants - https://aavegrants.org/ 
-- Balancer Grants - https://balancer.community/balancer-community-grants 
 - Bepro Infrastructure Grant - https://layerxlabs.notion.site/Introducing-the-Bepro-Network-Infrastructure-Grant-39e096cdabe34120b95acc0ac3ac6b31 
 - Chainlink Grants - https://chain.link/community/grants 
-- Compound Grants - https://questbook.notion.site/CGP-2-0-32b4ea7171f94c25b9161d91bcad3b20 
-- Decentraland DAO Grants - https://governance.decentraland.org/grants/ 
-- EPNS Grants - https://epns.notion.site/Push-Grants-Program-8c9f7934f7e5418faf96e7a5bdcaac4a 
+- Compound Grants - https://compoundgrants.questbook.app/ 
+- Decentraland DAO Grants - https://decentraland.org/dao/grants/ 
+- EPNS Grants - https://gov.push.org/c/grants/10 
 - Ecosystem Support Program - https://esp.ethereum.foundation/ 
 - Filecoin Dev Grants - https://grants.filecoin.io/ 
-- Gitcoin Grants - https://gitcoin.co/grants/ 
-- Lens Protocol Grants - https://aave.notion.site/Grants-Application-eec79f59fbad4e34b51acc3c936073a2 
+- Gitcoin Grants - https://grants.gitcoin.co/ 
 - Lit Protocol Grants - https://github.com/LIT-Protocol/LitGrants 
-- Livepeer Grants - https://github.com/livepeer/Grant-Program 
+- Livepeer Grants - https://livepeer.notion.site/Livepeer-Grants-f91071b5030d4c31ad4dd08e7c026526 
 - Metacartel Grants - https://www.metacartel.org/grants/ 
 - Metamask Grants DAO - https://metamaskgrants.org/ 
 - Moonbeam Grant Program - https://moonbeam.foundation/grants/ 
@@ -174,7 +167,7 @@ These grant and ecosystem support programs can help you build your own projects,
 - Streamr Data Fund - https://streamr.network/fund/ 
 - Swarm Grants - https://ethswarm.org/grants 
 - Synthetix Grants Council - https://grants.synthetix.io/ 
-- The Graph Grants - https://thegraph.foundation/ 
+- The Graph Grants - https://thegraph.com/grants/ 
 - UNI Grants - https://www.uniswapfoundation.org/grants 
 - Unmarshal Grants Program - https://unmarshal.io/grants/ 
 - VitaDAO - https://www.vitadao.com/ 
@@ -195,7 +188,7 @@ These guides provide a more structured approach to learning.
 - Intro to DeFi – How to navigate the Degen world - https://www.useweb3.xyz/guides/intro-to-defi 
 - Learn Solidity - https://www.freecodecamp.org/news/learn-solidity-handbook/ 
 - Road to ZK - https://plum-lightning-36c.notion.site/Road-to-ZK-2e85993b316b4c7c831bcdc866005e1b 
-- 4 ways to reduce⛽️Gas Fee paid to Ethereum blockchain. - https://mirror.xyz/iamchandan.eth/vuslsqt95p1vlNdy5WeKBFq0PUctybycdfchFmkySos 
+- 4 ways to reduce⛽️Gas Fee paid to Ethereum blockchain. - https://0chandan.medium.com/3-ways-to-reduce-%EF%B8%8Fgas-fee-paid-to-ethereum-blockchain-a9d03d0cb82f 
 - What is Web3 - https://www.useweb3.xyz/guides/what-is-web3 
 - Zero Knowledge Canon - https://a16zcrypto.com/posts/article/zero-knowledge-canon/ 
 
@@ -281,7 +274,6 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 - Starknet Hardhat example - https://github.com/Shard-Labs/starknet-hardhat-example 
 - Starknet React example - https://github.com/fracek/starknet-react-example 
 - Template Ethereum contracts - https://github.com/wighawag/template-ethereum-contracts 
-- TurboETH - https://www.turboeth.xyz/ 
 - Typescript Solidity Dev Starter Kit - https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit 
 - useDapp - https://github.com/EthWorks/useDApp 
 - Web3-Starter-Kit - https://github.com/lakshh07/Web3-Starter-Kit 
@@ -297,6 +289,7 @@ A curated list of free, community tutorials that are based around specific proje
 - Building a Decentralized NFT Marketplace with Solidity and Hardhat: A Step-by-Step Tutorial - https://medium.com/buildbear/building-a-decentralized-nft-marketplace-with-solidity-and-hardhat-a-step-by-step-tutorial-cef7af808b93 
 - Build a Voting Smart Contract  - https://medium.com/buildbear/a-step-by-step-guide-to-building-and-deploying-a-voting-smart-contract-on-the-blockchain-468665034c9e 
 - NFT Lottery DApp - https://medium.com/buildbear/building-an-nft-lottery-step-by-step-guide-for-creating-a-smart-contract-and-frontend-82d453833e1f 
+- Deploy Your Own ERC721 NFT Staking with Infinite Rewards with BuildBear's No-Code Deployment - https://www.cookbook.dev/contracts/nft-staking-with-infinite-rewards 
 - Euler Finance’s 196 Million Flash Loan Exploit - https://medium.com/buildbear/a-comprehensive-analysis-of-euler-finances-196-million-flash-loan-exploit-and-a-step-by-step-guide-691a31f26452 
 - Learn and deploy an ERC 1155 smart contract - https://medium.com/buildbear/learn-and-deploy-an-erc-1155-smart-contract-most-used-by-web3-games-f67e6f291e16 
 - Mastering Smart Contract Testing: A Comprehensive Guide to Hardhat - https://medium.com/buildbear/mastering-smart-contract-testing-a-comprehensive-guide-to-hardhat-5806005c2352 
