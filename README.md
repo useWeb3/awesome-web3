@@ -567,7 +567,7 @@ These websites all contain a huge amount of information on anything related to W
 - EVM Tools - https://evmtools.xyz/ 
 - Free Web3 resources - https://www.freeweb3resources.com/ 
 - Gitcoin - https://gitcoin.co/ 
-- Growthepie - https://www.growthepie.xyz/ 
+- growthepie - https://www.growthepie.com/ 
 - Kiwi News - https://news.kiwistand.com/ 
 - lil web3 - https://github.com/m1guelpf/lil-web3 
 - (Not So) Smart Contracts - https://github.com/crytic/not-so-smart-contracts/ 
