@@ -282,6 +282,7 @@ These boilerplates and starterkits allow you to quickly get into web3 and smart 
 
 ## Tutorials 💻 
 A curated list of free, community tutorials that are based around specific projects, tasks or challenges. They include step-by-step written instructions, screenshots and code examples to help you practice and master new skills.
+- [LearnAI — Arbitrum Interactive Course](https://www.uselearnai.com/chat?topic=Arbitrum+L2) — AI-powered personal tutor for learning Arbitrum from scratch through conversation
 
 - A Deep Dive into ERC-404 Token Standard and Crafting your Custom Token - https://www.buildbear.io/resources/guides-and-tutorials/erc404 
 - Build Your Own Decentralized Lending Protocol - https://medium.com/buildbear/build-your-own-decentralized-lending-protocol-8453c3e4196c 
