@@ -192,6 +192,11 @@ These guides provide a more structured approach to learning.
 - What is Web3 - https://www.useweb3.xyz/guides/what-is-web3 
 - Zero Knowledge Canon - https://a16zcrypto.com/posts/article/zero-knowledge-canon/ 
 
+### Smart Contract Learning
+
+- [Solidity by Example](https://solidity-by-example.org/) - Practical smart contract patterns and examples.
+- [CryptoZombies](https://cryptozombies.io/) - Interactive Solidity learning platform for beginners.
+
 
 ## Movies 🎬 
 These documentaries help provide a better understanding of blockchain technology and crypto. They take you through the history, fundamentals, risks and towards the next steps.
