@@ -572,6 +572,7 @@ These websites all contain a huge amount of information on anything related to W
 - lil web3 - https://github.com/m1guelpf/lil-web3 
 - (Not So) Smart Contracts - https://github.com/crytic/not-so-smart-contracts/ 
 - OpenZeppelin Solidity Wizard - https://wizard.openzeppelin.com/ 
+- Paperweight - https://www.paperweight.email/ 
 - Smart Contract Best Practices - https://consensys.github.io/smart-contract-best-practices/ 
 - smol-evm - https://github.com/karmacoma-eth/smol-evm 
 - Solidity by Example - https://solidity-by-example.org/ 
