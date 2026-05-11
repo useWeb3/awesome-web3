@@ -141,6 +141,7 @@ There are a lot of projects that allow you to earn something while you learn. Wh
 - Gitcoin - https://gitcoin.co/explorer 
 - Layer3 - https://beta.layer3.xyz/bounties 
 - RabbitHole - https://app.rabbithole.gg/ 
+- web3-discover - https://web3-discover.vercel.app (curated, scam-flagged active airdrop directory across EVM and Solana — deadline-sorted, action steps and risk flags per entry) 
 
 
 ## Grants & Support programs 💰 
