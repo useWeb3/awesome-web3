@@ -103,6 +103,7 @@ All the courses listed have been taken or highly recommended by others. They're 
 - Developer DAO academy - https://academy.developerdao.com/ 
 - Distributed Systems course - http://www.distributedsystemscourse.com/ 
 - Encode Club Bootcamps - https://bootcamps.encode.club/ 
+- Get Started with Web3 - https://beihaili.github.io/Get-Started-with-Web3/
 - Harvard CS50 - https://www.youtube.com/watch?v=8mAITcNt710 
 - How Proof of Stake Ethereum Works - https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works 
 - Human DAO Academy - https://academy.humandao.org/ 
@@ -587,5 +588,4 @@ These websites all contain a huge amount of information on anything related to W
 - Web3 creators - https://www.web3creators.com/  
 - Web3 starter pack - https://cryptosociety.notion.site/Web3-Starter-Pack-5a922714348e4a7cbaa45b2f0a8861bd 
 - Zk Block - https://zkblock.app/ 
-
 
