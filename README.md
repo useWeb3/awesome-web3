@@ -364,6 +364,7 @@ A curated list of free, community tutorials that are based around specific proje
 - How Tornado Cash Works - https://www.rareskills.io/post/how-does-tornado-cash-work 
 - How to Build a Cross-Chain Airdrop DApp With Solidity, Next.js and Axelar - https://axelar.network/blog/cross-chain-airdrop-dapp-tutorial 
 - How to Build a Multi-Chain NFT Marketplace on Ethereum, Polygon and Binance Smart Chain using Solidity, React, Hardhat and Ethers.js - https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-on-ethereum-polygon-and-binance-smart-chain-using-solidity-react-hardhat-and-ethersjs 
+- How to Build a Multi-Chain Portfolio Tracker with Zerion API - https://developers.zerion.io/recipes/multi-chain-portfolio 
 - How to Build a Wallet Generator for Solana in React - https://www.quicknode.com/guides/web3-sdks/how-to-build-a-wallet-generator-for-solana-in-react 
 - Building a web3 dapp using Zero-knowledge (Snarks) Boilerplate - https://hackernoon.com/how-to-use-a-zero-knowledge-dapp-boilerplate 
 - Build a Full-Stack Interchain Application With Next.js, Solidity & Axelar - https://www.axelar.network/blog/how-to-build-interchain-dapp-with-next-js-solidity-and-axelar 
