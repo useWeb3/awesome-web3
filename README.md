@@ -533,6 +533,7 @@ These videos provide you with an amazing opportunity to learn from some of the b
 
 
 ## Websites 🌐 
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches a Solana mint/program ID and alerts on Telegram when a new transaction appears, no API key needed.
 These websites all contain a huge amount of information on anything related to Web3, blockchain and Ethereum development. From Solidity examples to guides on smart contract design patterns, best practices and complete developer roadmaps.
 
 - 2077 Research - https://research.2077.xyz 
